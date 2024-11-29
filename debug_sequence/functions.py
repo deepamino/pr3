@@ -20,3 +20,17 @@ def check_sequence(sequence):
     if not check_nucleotides_DNA(sequence):
         raise ValueError("Invalid DNA sequence")
     return sequence
+
+def check_aminoacids_protein(sequence):
+    sequence = sequence.upper()
+    for aminoacid in sequence:
+        if aminoacid not in "ACDEFGHIKLMNPQRSTVWY":
+            return False
+    return True
+
+def check_protein(sequence):
+    sequence = check_no_spaces(sequence)
+    sequence = sequence_upper(sequence)
+    if not check_aminoacids_protein(sequence):
+        raise ValueError("Invalid protein sequence")
+    return sequence
