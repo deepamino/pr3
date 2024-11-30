@@ -17,7 +17,7 @@ def sequence_upper(sequence):
 def check_sequence(sequence):
     sequence = check_no_spaces(sequence)
     sequence = sequence_upper(sequence)
-    if not check_nucleotides_DNA(sequence):
+    if not check_nucleotides_DNA(sequence) and len(sequence) == 0:
         raise ValueError("Invalid DNA sequence")
     return sequence
 
@@ -31,6 +31,6 @@ def check_aminoacids_protein(sequence):
 def check_protein(sequence):
     sequence = check_no_spaces(sequence)
     sequence = sequence_upper(sequence)
-    if not check_aminoacids_protein(sequence):
+    if not check_aminoacids_protein(sequence) and len(sequence) == 0:
         raise ValueError("Invalid protein sequence")
     return sequence
