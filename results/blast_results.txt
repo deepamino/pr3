@@ -1,50 +1,302 @@
-{'id': 'gb|KAI2558339.1|', 'length': 90, 'evalue': 2.02777e-42, 'identity_percentage': 100.0}
-{'id': 'gb|ACF93730.1|', 'length': 88, 'evalue': 2.22777e-42, 'identity_percentage': 100.0}
-{'id': 'gb|UXQ07646.1|', 'length': 89, 'evalue': 2.29515e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAD30656.1|', 'length': 89, 'evalue': 3.33381e-42, 'identity_percentage': 100.0}
-{'id': 'gb|ABA19233.1|', 'length': 105, 'evalue': 3.97399e-42, 'identity_percentage': 100.0}
-{'id': 'gb|ABG47031.1|', 'length': 105, 'evalue': 4.06218e-42, 'identity_percentage': 100.0}
-{'id': 'gb|ACF16788.1|', 'length': 105, 'evalue': 4.107e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAG46184.1|', 'length': 115, 'evalue': 4.14593e-42, 'identity_percentage': 100.0}
-{'id': 'ref|XP_002822173.1|', 'length': 147, 'evalue': 4.4972e-42, 'identity_percentage': 100.0}
-{'id': 'ref|WP_349974079.1|', 'length': 114, 'evalue': 4.63716e-42, 'identity_percentage': 100.0}
-{'id': 'emb|CAA43421.1|', 'length': 121, 'evalue': 5.26427e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAK29639.1|', 'length': 147, 'evalue': 5.53756e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAN84548.1|', 'length': 147, 'evalue': 5.72253e-42, 'identity_percentage': 100.0}
-{'id': 'ref|XP_018891709.1|', 'length': 147, 'evalue': 5.91368e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AKI70610.1|', 'length': 147, 'evalue': 6.04465e-42, 'identity_percentage': 100.0}
-{'id': 'ref|NP_000509.1|', 'length': 147, 'evalue': 6.11121e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAX29557.1|', 'length': 148, 'evalue': 6.2315e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAL68978.1|', 'length': 147, 'evalue': 6.5263e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAX37051.1|', 'length': 148, 'evalue': 6.877e-42, 'identity_percentage': 100.0}
-{'id': 'gb|KAI2558338.1|', 'length': 111, 'evalue': 7.40256e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AKI70611.1|', 'length': 147, 'evalue': 7.52493e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAA88054.1|', 'length': 147, 'evalue': 8.03603e-42, 'identity_percentage': 100.0}
-{'id': 'gb|AAK20080.1|', 'length': 111, 'evalue': 8.08166e-42, 'identity_percentage': 100.0}
-{'id': 'gb|KAI4069682.1|', 'length': 111, 'evalue': 1.02879e-41, 'identity_percentage': 100.0}
-{'id': 'gb|AAY15222.1|', 'length': 105, 'evalue': 1.30002e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|ACE80932.1|', 'length': 139, 'evalue': 1.46372e-41, 'identity_percentage': 100.0}
-{'id': 'gb|AAN11321.1|', 'length': 105, 'evalue': 1.63695e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|UXQ07650.1|', 'length': 90, 'evalue': 1.68775e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|ULD54880.1|', 'length': 105, 'evalue': 1.88795e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'dbj|BAV25189.2|', 'length': 105, 'evalue': 2.03869e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'pdb|1CH4|A', 'length': 146, 'evalue': 2.0889e-41, 'identity_percentage': 100.0}
-{'id': 'gb|WWQ02367.1|', 'length': 105, 'evalue': 2.32564e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|ACU56984.1|', 'length': 147, 'evalue': 2.59401e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|AAZ39780.1|', 'length': 147, 'evalue': 2.59401e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|AAT36651.1|', 'length': 105, 'evalue': 2.83352e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|ACF16762.1|', 'length': 105, 'evalue': 3.30406e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|WCL16168.1|', 'length': 105, 'evalue': 3.30406e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|AAN16468.1|', 'length': 105, 'evalue': 3.41464e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'sp|P02025.1|', 'length': 146, 'evalue': 3.61195e-41, 'identity_percentage': 100.0}
-{'id': 'ref|XP_033062959.1|', 'length': 147, 'evalue': 3.80572e-41, 'identity_percentage': 97.10144927536231}
-{'id': 'gb|ACC69180.1|', 'length': 105, 'evalue': 3.81068e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|ADV59922.1|', 'length': 105, 'evalue': 3.81068e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'prf||0404170B', 'length': 146, 'evalue': 3.89974e-41, 'identity_percentage': 100.0}
-{'id': 'pdb|1CMY|B', 'length': 146, 'evalue': 4.21047e-41, 'identity_percentage': 100.0}
-{'id': 'ref|XP_004090697.3|', 'length': 147, 'evalue': 4.38798e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'pdb|2YRS|B', 'length': 146, 'evalue': 4.39902e-41, 'identity_percentage': 100.0}
-{'id': 'pdb|1Y85|B', 'length': 145, 'evalue': 4.70954e-41, 'identity_percentage': 100.0}
-{'id': 'gb|AAY46275.1|', 'length': 105, 'evalue': 4.90472e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|ACF16774.1|', 'length': 105, 'evalue': 4.90472e-41, 'identity_percentage': 98.55072463768117}
-{'id': 'gb|AAD19696.1|', 'length': 147, 'evalue': 5.00423e-41, 'identity_percentage': 98.55072463768117}
+[
+    {
+        "id": "gb|UFQ90408.1|",
+        "length": 210,
+        "evalue": 5.22617e-18,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "tpg|HDJ0545968.1|",
+        "length": 109,
+        "evalue": 5.52536e-18,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|AAA72531.1|",
+        "length": 87,
+        "evalue": 9.39876e-18,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|AAM76640.1|",
+        "length": 65,
+        "evalue": 1.24115e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|AKI70567.1|",
+        "length": 110,
+        "evalue": 1.36058e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|AKI70566.1|",
+        "length": 110,
+        "evalue": 1.4688e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "ref|NP_000198.1|",
+        "length": 110,
+        "evalue": 1.51777e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "ref|NP_001008996.1|",
+        "length": 110,
+        "evalue": 1.60305e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|AAP36446.1|",
+        "length": 111,
+        "evalue": 1.61005e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "ref|XP_024110665.1|",
+        "length": 110,
+        "evalue": 1.65651e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|AEG19452.1|",
+        "length": 94,
+        "evalue": 1.69906e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|MCZ4612290.1|",
+        "length": 143,
+        "evalue": 1.72885e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|QMS45324.1|",
+        "length": 153,
+        "evalue": 2.37345e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "ref|XP_004050475.2|",
+        "length": 153,
+        "evalue": 2.42553e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|AAA72172.1|",
+        "length": 114,
+        "evalue": 2.47023e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|QMS45321.1|",
+        "length": 204,
+        "evalue": 8.5737e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "ref|XP_016775240.2|",
+        "length": 204,
+        "evalue": 8.5737e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "ref|XP_034787832.1|",
+        "length": 204,
+        "evalue": 8.75938e-17,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|AGG11869.1|",
+        "length": 97,
+        "evalue": 8.90528e-17,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "gb|AKI70564.1|",
+        "length": 110,
+        "evalue": 9.73407e-17,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "prf||1006230A",
+        "length": 86,
+        "evalue": 1.49827e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_025211013.1|",
+        "length": 110,
+        "evalue": 2.13816e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "gb|AKI70565.1|",
+        "length": 110,
+        "evalue": 2.25825e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_032009711.1|",
+        "length": 110,
+        "evalue": 2.28306e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_003281399.1|",
+        "length": 110,
+        "evalue": 2.33351e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_003909425.2|",
+        "length": 110,
+        "evalue": 2.35915e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_011896559.1|",
+        "length": 110,
+        "evalue": 2.41128e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_023039285.1|",
+        "length": 110,
+        "evalue": 2.51902e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_055150526.1|",
+        "length": 153,
+        "evalue": 2.66651e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_032009712.2|",
+        "length": 153,
+        "evalue": 2.75466e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_050613945.1|",
+        "length": 153,
+        "evalue": 3.07011e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_065383852.1|",
+        "length": 147,
+        "evalue": 4.16403e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_025211011.1|",
+        "length": 147,
+        "evalue": 4.25541e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_017743290.1|",
+        "length": 147,
+        "evalue": 4.49273e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_008002825.1|",
+        "length": 144,
+        "evalue": 4.61517e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_017803627.2|",
+        "length": 147,
+        "evalue": 4.74328e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_023039287.1|",
+        "length": 147,
+        "evalue": 4.90027e-16,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "ref|XP_035119627.1|",
+        "length": 108,
+        "evalue": 9.69055e-16,
+        "identity_percentage": 97.2972972972973
+    },
+    {
+        "id": "sp|P67972.1|",
+        "length": 108,
+        "evalue": 1.00135e-15,
+        "identity_percentage": 97.2972972972973
+    },
+    {
+        "id": "ref|XP_012311615.1|",
+        "length": 108,
+        "evalue": 1.05759e-15,
+        "identity_percentage": 97.2972972972973
+    },
+    {
+        "id": "ref|XP_006141129.1|",
+        "length": 110,
+        "evalue": 1.07736e-15,
+        "identity_percentage": 94.73684210526315
+    },
+    {
+        "id": "ref|XP_032124369.1|",
+        "length": 108,
+        "evalue": 1.2875e-15,
+        "identity_percentage": 97.2972972972973
+    },
+    {
+        "id": "ref|XP_064226392.1|",
+        "length": 155,
+        "evalue": 1.68647e-15,
+        "identity_percentage": 97.2972972972973
+    },
+    {
+        "id": "ref|XP_008002752.1|",
+        "length": 209,
+        "evalue": 1.78156e-15,
+        "identity_percentage": 97.36842105263158
+    },
+    {
+        "id": "pdb|2KQP|A",
+        "length": 86,
+        "evalue": 1.90513e-15,
+        "identity_percentage": 94.73684210526315
+    },
+    {
+        "id": "gb|UOG94042.1|",
+        "length": 99,
+        "evalue": 2.21869e-15,
+        "identity_percentage": 94.73684210526315
+    },
+    {
+        "id": "gb|KAL0628984.1|",
+        "length": 184,
+        "evalue": 2.21913e-15,
+        "identity_percentage": 97.2972972972973
+    },
+    {
+        "id": "gb|AWO14628.1|",
+        "length": 105,
+        "evalue": 2.8268e-15,
+        "identity_percentage": 90.47619047619048
+    },
+    {
+        "id": "ref|XP_062051635.1|",
+        "length": 107,
+        "evalue": 6.25529e-15,
+        "identity_percentage": 89.47368421052632
+    },
+    {
+        "id": "ref|NP_001353985.1|",
+        "length": 110,
+        "evalue": 6.82431e-15,
+        "identity_percentage": 89.47368421052632
+    }
+]
