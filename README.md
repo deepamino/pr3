@@ -190,6 +190,135 @@ def get_protein():
 Se crea la función `search_protein_sequence`, la cual es la encargada de realizar lo siguiente:
 - Obtención de la secuencia de aminoácidos: `get_protein()`
 - Realizar la búsqueda BLAST *online*: `NCBIWWW.qblast("blastp", "nr", protein_sequence)` donde "blastp" indica que se está realizando una búsqueda de proteínas (BLAST para proteínas), "nr" se refiere a la base de datos de proteínas non-redundantes (NR) proporcionada por NCBI, que contiene un gran número de secuencias proteicas de diversas especies y "protein_sequence" es la secuencia proteica que se está buscando en la base de datos.
-- Filtrado de los resultados y guardarlos en un archivo json.
+- Filtrado de los resultados y guardar los atributos necesarios en formato JSON. Enlace a la documentación: [BLAST Record](https://biopython.org/docs/1.75/api/Bio.Blast.NCBIWWW.html)
+
+```python
+def search_protein_sequence(output_file="./results/blast_results.json"):
+
+    protein_sequence = get_protein()
+
+    result_handle = NCBIWWW.qblast("blastp", "nr", protein_sequence)
+    blast_records = NCBIXML.parse(result_handle)
+
+    filtered_results = []
+
+    for blast_record in blast_records:
+        for alignment in blast_record.alignments:
+            for hsp in alignment.hsps:
+                # Filtrar los resultados según el E-value
+                if hsp.expect < 0.001:
+                    # Guardar los atributos requeridos en formato JSON
+                    result = {
+                        "id": alignment.hit_id,
+                        "length": alignment.length,
+                        "evalue": hsp.expect,
+                        "identity_percentage": (hsp.identities / hsp.align_length) * 100
+                    }
+                    filtered_results.append(result)
+
+    # Guardar en el archivo
+    with open(output_file, "w") as f:
+        json.dump(filtered_results, f, indent=4)
+
+    print(f"Resultados guardados en formato JSON en: {output_file}")
+```
+
+**3. Implementación *offline***
+
+Al igual que en e ejercicio 1, se realiza la búsqueda local mediante dos bases de datos de BLAST, disponibles en el NCBI (*National Center for Biotechnology Information*):
+- **Base de datos `swisprot`**: repositorio de secuencias de proteínas que forma parte de la base de datos UniProt.
+- **Base de datos `nr`**:  base de datos no redundante de secuencias de proteínas. Debido a las limitaciones de recursos, se han descargado únicamente los archivos desde el 000 al 020.
+
+```python
+def search_local_protein(output_file = "./results/blast_results_locally.json"):
+    # Rutas necesarias para la búsqueda
+    os.environ["CMD"] = input("Introduce la ruta del ejecutable de BLAST: ")
+    os.environ["BLASTDB"] = input("Introduce la ruta de la base de datos de BLAST: ")
+
+    # Obtención de la secuencia
+    sequence = input("Introduce la secuencia de proteína en formato FASTA: ")
+
+    # Escribir la frecuencia para realizar la búsqueda
+    fasta_file = "query.fasta"
+    with open(fasta_file, "w") as f:
+        f.write(">query\n")
+        f.write(sequence)
+
+
+    # Configuración y ejecución de la línea de comando BLAST
+    blastp_cline = NcbiblastpCommandline(
+        cmd=os.environ["CMD"],
+        query=fasta_file,
+        db=os.environ["BLASTDB"],
+        evalue=0.001,
+        outfmt=5,
+        out="results.xml"
+    )
+
+    blastp_cline()
+
+
+    with open("results.xml") as result_handle:
+        blast_records = NCBIXML.parse(result_handle)
+        filtered_results = []
+
+        for blast_record in blast_records:
+            for alignment in blast_record.alignments:
+                for hsp in alignment.hsps:
+                    # Filtrar los resultados según el E-value
+                    if hsp.expect < 0.001:
+                        # Guardar los atributos necesarios
+                        result = {
+                            "id": alignment.hit_id,
+                            "length": alignment.length,
+                            "evalue": hsp.expect,
+                            "identity_percentage": (hsp.identities / hsp.align_length) * 100
+                        }
+                        filtered_results.append(result)
+
+    # Guardar en el archivo
+    with open(output_file, "w") as f:
+        json.dump(filtered_results, f, indent=4)
+
+    print(f"Resultados guardados en formato JSON en: {output_file}")
+
+    os.remove(fasta_file)
+    os.remove("results.xml")
+```
+
+**4. Comparación de la implementación local vs *online***
+
+Al igual que el ejercicio 1, se ha decidido realizar una comparativa entre la implementación local y online. Para ello, se utilizará parte de la secuencia de aminoácidos correspondiente a la proteína de la insulina humana.
+
+...`LVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGP`...
+
+En este caso, lo único que se puede comparar es el tiempo de ejecución, ya que los resultados más fiables se consideran los correspondientes a la base de datos online puesto que es la que más información contiene. Por tanto, la ejecución local en la base de datos de Swissprot es la más rápida puesto que es aquella que contiene menos información. Sin embargo, a pesar de que la online es la que más tarda, a su vez es la más completa puesto que realiza la bñusqueda en toda la base de datos de proteínas `nr`. En definitiva, si se busca una mayor precisión, se recomienda la búsqueda online, mientras que si se busca rapidez, se recomienda la búsqueda local en la base de datos de Swissprot. Además, si se disponen de los recursos necesarios, la base de datos `nr` de forma local y completa también es una buena opción.
+
+<div align="center">
+<table border="1" style="border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr>
+      <th>Implementación</th>
+      <th>Tiempo de ejecución (s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>online</td>
+      <td>363.872967</td>
+    </tr>
+    <tr>
+      <td>local swissprot</td>
+      <td>14.235358</td>
+    </tr>
+    <tr>
+      <td>local nr subset</td>
+      <td>332.662034</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<hr>
 
 </div>
