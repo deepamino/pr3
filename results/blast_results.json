@@ -2,301 +2,301 @@
     {
         "id": "gb|UFQ90408.1|",
         "length": 210,
-        "evalue": 5.22617e-18,
+        "evalue": 5.22694e-18,
         "identity_percentage": 100.0
     },
     {
         "id": "tpg|HDJ0545968.1|",
         "length": 109,
-        "evalue": 5.52536e-18,
+        "evalue": 5.52618e-18,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|AAA72531.1|",
         "length": 87,
-        "evalue": 9.39876e-18,
+        "evalue": 9.40015e-18,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|AAM76640.1|",
         "length": 65,
-        "evalue": 1.24115e-17,
+        "evalue": 1.24134e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|AKI70567.1|",
         "length": 110,
-        "evalue": 1.36058e-17,
+        "evalue": 1.36078e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|AKI70566.1|",
         "length": 110,
-        "evalue": 1.4688e-17,
+        "evalue": 1.46901e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "ref|NP_000198.1|",
         "length": 110,
-        "evalue": 1.51777e-17,
+        "evalue": 1.518e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "ref|NP_001008996.1|",
         "length": 110,
-        "evalue": 1.60305e-17,
+        "evalue": 1.60329e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|AAP36446.1|",
         "length": 111,
-        "evalue": 1.61005e-17,
+        "evalue": 1.61028e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "ref|XP_024110665.1|",
         "length": 110,
-        "evalue": 1.65651e-17,
+        "evalue": 1.65675e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|AEG19452.1|",
         "length": 94,
-        "evalue": 1.69906e-17,
+        "evalue": 1.69931e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|MCZ4612290.1|",
         "length": 143,
-        "evalue": 1.72885e-17,
+        "evalue": 1.72911e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|QMS45324.1|",
         "length": 153,
-        "evalue": 2.37345e-17,
+        "evalue": 2.3738e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "ref|XP_004050475.2|",
         "length": 153,
-        "evalue": 2.42553e-17,
+        "evalue": 2.42588e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|AAA72172.1|",
         "length": 114,
-        "evalue": 2.47023e-17,
+        "evalue": 2.4706e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|QMS45321.1|",
         "length": 204,
-        "evalue": 8.5737e-17,
+        "evalue": 8.57496e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "ref|XP_016775240.2|",
         "length": 204,
-        "evalue": 8.5737e-17,
+        "evalue": 8.57496e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "ref|XP_034787832.1|",
         "length": 204,
-        "evalue": 8.75938e-17,
+        "evalue": 8.76067e-17,
         "identity_percentage": 100.0
     },
     {
         "id": "gb|AGG11869.1|",
         "length": 97,
-        "evalue": 8.90528e-17,
+        "evalue": 8.90659e-17,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "gb|AKI70564.1|",
         "length": 110,
-        "evalue": 9.73407e-17,
+        "evalue": 9.7355e-17,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "prf||1006230A",
         "length": 86,
-        "evalue": 1.49827e-16,
+        "evalue": 1.49849e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_025211013.1|",
         "length": 110,
-        "evalue": 2.13816e-16,
+        "evalue": 2.13848e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "gb|AKI70565.1|",
         "length": 110,
-        "evalue": 2.25825e-16,
+        "evalue": 2.25858e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_032009711.1|",
         "length": 110,
-        "evalue": 2.28306e-16,
+        "evalue": 2.2834e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_003281399.1|",
         "length": 110,
-        "evalue": 2.33351e-16,
+        "evalue": 2.33385e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_003909425.2|",
         "length": 110,
-        "evalue": 2.35915e-16,
+        "evalue": 2.3595e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_011896559.1|",
         "length": 110,
-        "evalue": 2.41128e-16,
+        "evalue": 2.41164e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_023039285.1|",
         "length": 110,
-        "evalue": 2.51902e-16,
+        "evalue": 2.51939e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_055150526.1|",
         "length": 153,
-        "evalue": 2.66651e-16,
+        "evalue": 2.6669e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_032009712.2|",
         "length": 153,
-        "evalue": 2.75466e-16,
+        "evalue": 2.75507e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_050613945.1|",
         "length": 153,
-        "evalue": 3.07011e-16,
+        "evalue": 3.07056e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_065383852.1|",
         "length": 147,
-        "evalue": 4.16403e-16,
+        "evalue": 4.16464e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_025211011.1|",
         "length": 147,
-        "evalue": 4.25541e-16,
+        "evalue": 4.25604e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_017743290.1|",
         "length": 147,
-        "evalue": 4.49273e-16,
+        "evalue": 4.49339e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_008002825.1|",
         "length": 144,
-        "evalue": 4.61517e-16,
+        "evalue": 4.61585e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_017803627.2|",
         "length": 147,
-        "evalue": 4.74328e-16,
+        "evalue": 4.74398e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_023039287.1|",
         "length": 147,
-        "evalue": 4.90027e-16,
+        "evalue": 4.90099e-16,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "ref|XP_035119627.1|",
         "length": 108,
-        "evalue": 9.69055e-16,
+        "evalue": 9.69198e-16,
         "identity_percentage": 97.2972972972973
     },
     {
         "id": "sp|P67972.1|",
         "length": 108,
-        "evalue": 1.00135e-15,
+        "evalue": 1.0015e-15,
         "identity_percentage": 97.2972972972973
     },
     {
         "id": "ref|XP_012311615.1|",
         "length": 108,
-        "evalue": 1.05759e-15,
+        "evalue": 1.05775e-15,
         "identity_percentage": 97.2972972972973
     },
     {
         "id": "ref|XP_006141129.1|",
         "length": 110,
-        "evalue": 1.07736e-15,
+        "evalue": 1.07752e-15,
         "identity_percentage": 94.73684210526315
     },
     {
         "id": "ref|XP_032124369.1|",
         "length": 108,
-        "evalue": 1.2875e-15,
+        "evalue": 1.28769e-15,
         "identity_percentage": 97.2972972972973
     },
     {
         "id": "ref|XP_064226392.1|",
         "length": 155,
-        "evalue": 1.68647e-15,
+        "evalue": 1.68672e-15,
         "identity_percentage": 97.2972972972973
     },
     {
         "id": "ref|XP_008002752.1|",
         "length": 209,
-        "evalue": 1.78156e-15,
+        "evalue": 1.78182e-15,
         "identity_percentage": 97.36842105263158
     },
     {
         "id": "pdb|2KQP|A",
         "length": 86,
-        "evalue": 1.90513e-15,
+        "evalue": 1.90541e-15,
         "identity_percentage": 94.73684210526315
     },
     {
         "id": "gb|UOG94042.1|",
         "length": 99,
-        "evalue": 2.21869e-15,
+        "evalue": 2.21901e-15,
         "identity_percentage": 94.73684210526315
     },
     {
         "id": "gb|KAL0628984.1|",
         "length": 184,
-        "evalue": 2.21913e-15,
+        "evalue": 2.21946e-15,
         "identity_percentage": 97.2972972972973
     },
     {
         "id": "gb|AWO14628.1|",
         "length": 105,
-        "evalue": 2.8268e-15,
+        "evalue": 2.82722e-15,
         "identity_percentage": 90.47619047619048
     },
     {
         "id": "ref|XP_062051635.1|",
         "length": 107,
-        "evalue": 6.25529e-15,
+        "evalue": 6.25621e-15,
         "identity_percentage": 89.47368421052632
     },
     {
         "id": "ref|NP_001353985.1|",
         "length": 110,
-        "evalue": 6.82431e-15,
+        "evalue": 6.82532e-15,
         "identity_percentage": 89.47368421052632
     }
 ]
