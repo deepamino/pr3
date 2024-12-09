@@ -1,0 +1,3002 @@
+[
+    {
+        "id": "sp|P68871.2|",
+        "length": 147,
+        "evalue": 7.47508e-105,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "sp|P02024.2|",
+        "length": 147,
+        "evalue": 2.60913e-104,
+        "identity_percentage": 99.31972789115646
+    },
+    {
+        "id": "sp|P02025.1|",
+        "length": 146,
+        "evalue": 4.81416e-102,
+        "identity_percentage": 98.63013698630137
+    },
+    {
+        "id": "sp|P02032.1|",
+        "length": 146,
+        "evalue": 4.45774e-101,
+        "identity_percentage": 97.26027397260275
+    },
+    {
+        "id": "sp|P19885.2|",
+        "length": 147,
+        "evalue": 5.43766e-101,
+        "identity_percentage": 95.91836734693877
+    },
+    {
+        "id": "sp|Q6WN22.3|",
+        "length": 147,
+        "evalue": 1.93965e-100,
+        "identity_percentage": 95.91836734693877
+    },
+    {
+        "id": "sp|P68232.2|",
+        "length": 147,
+        "evalue": 3.35571e-100,
+        "identity_percentage": 95.91836734693877
+    },
+    {
+        "id": "sp|P68222.2|",
+        "length": 147,
+        "evalue": 3.70369e-100,
+        "identity_percentage": 95.23809523809523
+    },
+    {
+        "id": "sp|Q6WN27.3|",
+        "length": 147,
+        "evalue": 3.9991e-100,
+        "identity_percentage": 95.91836734693877
+    },
+    {
+        "id": "sp|Q6WN25.3|",
+        "length": 147,
+        "evalue": 4.04319e-100,
+        "identity_percentage": 95.91836734693877
+    },
+    {
+        "id": "sp|P02028.1|",
+        "length": 146,
+        "evalue": 5.73459e-100,
+        "identity_percentage": 95.8904109589041
+    },
+    {
+        "id": "sp|Q6WN28.3|",
+        "length": 147,
+        "evalue": 8.15524e-100,
+        "identity_percentage": 96.5986394557823
+    },
+    {
+        "id": "sp|P67821.3|",
+        "length": 147,
+        "evalue": 1.22348e-99,
+        "identity_percentage": 95.23809523809523
+    },
+    {
+        "id": "sp|Q6WN21.3|",
+        "length": 147,
+        "evalue": 1.77612e-99,
+        "identity_percentage": 95.23809523809523
+    },
+    {
+        "id": "sp|Q9TSP1.2|",
+        "length": 147,
+        "evalue": 5.80305e-99,
+        "identity_percentage": 94.5578231292517
+    },
+    {
+        "id": "sp|P02036.2|",
+        "length": 147,
+        "evalue": 7.63271e-99,
+        "identity_percentage": 94.5578231292517
+    },
+    {
+        "id": "sp|P02033.1|",
+        "length": 146,
+        "evalue": 9.28565e-99,
+        "identity_percentage": 95.2054794520548
+    },
+    {
+        "id": "sp|Q6WN29.3|",
+        "length": 147,
+        "evalue": 1.08399e-98,
+        "identity_percentage": 95.23809523809523
+    },
+    {
+        "id": "sp|P18985.1|",
+        "length": 146,
+        "evalue": 1.14359e-98,
+        "identity_percentage": 96.57534246575342
+    },
+    {
+        "id": "sp|P08259.1|",
+        "length": 146,
+        "evalue": 1.27608e-98,
+        "identity_percentage": 94.52054794520548
+    },
+    {
+        "id": "sp|P61772.2|",
+        "length": 147,
+        "evalue": 1.27773e-98,
+        "identity_percentage": 93.87755102040816
+    },
+    {
+        "id": "sp|P02039.1|",
+        "length": 146,
+        "evalue": 1.57158e-98,
+        "identity_percentage": 95.2054794520548
+    },
+    {
+        "id": "sp|P02026.1|",
+        "length": 146,
+        "evalue": 1.71562e-98,
+        "identity_percentage": 94.52054794520548
+    },
+    {
+        "id": "sp|Q6WN26.3|",
+        "length": 147,
+        "evalue": 2.30952e-98,
+        "identity_percentage": 94.5578231292517
+    },
+    {
+        "id": "sp|P02031.1|",
+        "length": 146,
+        "evalue": 2.33199e-98,
+        "identity_percentage": 95.2054794520548
+    },
+    {
+        "id": "sp|P02035.1|",
+        "length": 146,
+        "evalue": 2.49052e-98,
+        "identity_percentage": 95.2054794520548
+    },
+    {
+        "id": "sp|P68054.1|",
+        "length": 146,
+        "evalue": 2.74877e-98,
+        "identity_percentage": 95.2054794520548
+    },
+    {
+        "id": "sp|P02040.1|",
+        "length": 146,
+        "evalue": 2.93564e-98,
+        "identity_percentage": 95.2054794520548
+    },
+    {
+        "id": "sp|P02042.2|",
+        "length": 147,
+        "evalue": 2.9718e-98,
+        "identity_percentage": 93.19727891156462
+    },
+    {
+        "id": "sp|P02030.1|",
+        "length": 146,
+        "evalue": 8.04808e-98,
+        "identity_percentage": 94.52054794520548
+    },
+    {
+        "id": "sp|P67822.1|",
+        "length": 146,
+        "evalue": 9.28072e-98,
+        "identity_percentage": 94.52054794520548
+    },
+    {
+        "id": "sp|P02038.1|",
+        "length": 146,
+        "evalue": 1.08201e-97,
+        "identity_percentage": 94.52054794520548
+    },
+    {
+        "id": "sp|P02044.3|",
+        "length": 147,
+        "evalue": 1.22221e-97,
+        "identity_percentage": 93.87755102040816
+    },
+    {
+        "id": "sp|P19886.2|",
+        "length": 147,
+        "evalue": 2.66161e-97,
+        "identity_percentage": 92.51700680272108
+    },
+    {
+        "id": "sp|Q6WN20.3|",
+        "length": 147,
+        "evalue": 2.75059e-97,
+        "identity_percentage": 93.87755102040816
+    },
+    {
+        "id": "sp|P02029.1|",
+        "length": 146,
+        "evalue": 3.30989e-97,
+        "identity_percentage": 93.83561643835617
+    },
+    {
+        "id": "sp|P02055.1|",
+        "length": 146,
+        "evalue": 6.96954e-96,
+        "identity_percentage": 91.78082191780823
+    },
+    {
+        "id": "sp|P33499.1|",
+        "length": 146,
+        "evalue": 9.57745e-96,
+        "identity_percentage": 93.83561643835617
+    },
+    {
+        "id": "sp|P68046.1|",
+        "length": 146,
+        "evalue": 1.5344e-95,
+        "identity_percentage": 91.78082191780823
+    },
+    {
+        "id": "sp|P15449.1|",
+        "length": 146,
+        "evalue": 1.55131e-95,
+        "identity_percentage": 91.78082191780823
+    },
+    {
+        "id": "sp|P09909.1|",
+        "length": 146,
+        "evalue": 2.32714e-95,
+        "identity_percentage": 91.78082191780823
+    },
+    {
+        "id": "sp|P08535.2|",
+        "length": 147,
+        "evalue": 3.03094e-95,
+        "identity_percentage": 91.15646258503402
+    },
+    {
+        "id": "sp|P68052.1|",
+        "length": 146,
+        "evalue": 3.12856e-95,
+        "identity_percentage": 91.78082191780823
+    },
+    {
+        "id": "sp|P02057.2|",
+        "length": 147,
+        "evalue": 3.81538e-95,
+        "identity_percentage": 90.47619047619048
+    },
+    {
+        "id": "sp|P18989.1|",
+        "length": 146,
+        "evalue": 4.9035e-95,
+        "identity_percentage": 90.41095890410958
+    },
+    {
+        "id": "sp|P15166.1|",
+        "length": 146,
+        "evalue": 6.88757e-95,
+        "identity_percentage": 90.41095890410958
+    },
+    {
+        "id": "sp|P26916.1|",
+        "length": 146,
+        "evalue": 7.85572e-95,
+        "identity_percentage": 91.0958904109589
+    },
+    {
+        "id": "sp|P10893.1|",
+        "length": 146,
+        "evalue": 8.29823e-95,
+        "identity_percentage": 91.0958904109589
+    },
+    {
+        "id": "sp|P23602.1|",
+        "length": 146,
+        "evalue": 1.21782e-94,
+        "identity_percentage": 91.0958904109589
+    },
+    {
+        "id": "sp|P13557.2|",
+        "length": 147,
+        "evalue": 1.42143e-94,
+        "identity_percentage": 90.47619047619048
+    },
+    {
+        "id": "sp|P21201.1|",
+        "length": 146,
+        "evalue": 1.48341e-94,
+        "identity_percentage": 91.0958904109589
+    },
+    {
+        "id": "sp|P18983.2|",
+        "length": 147,
+        "evalue": 1.65716e-94,
+        "identity_percentage": 90.47619047619048
+    },
+    {
+        "id": "sp|P68015.1|",
+        "length": 146,
+        "evalue": 2.08362e-94,
+        "identity_percentage": 92.46575342465754
+    },
+    {
+        "id": "sp|P68044.1|",
+        "length": 146,
+        "evalue": 5.00728e-94,
+        "identity_percentage": 90.41095890410958
+    },
+    {
+        "id": "sp|P68014.1|",
+        "length": 146,
+        "evalue": 7.67771e-94,
+        "identity_percentage": 91.78082191780823
+    },
+    {
+        "id": "sp|Q5XLE5.3|",
+        "length": 147,
+        "evalue": 8.76678e-94,
+        "identity_percentage": 89.79591836734694
+    },
+    {
+        "id": "sp|P18982.1|",
+        "length": 146,
+        "evalue": 9.87881e-94,
+        "identity_percentage": 90.41095890410958
+    },
+    {
+        "id": "sp|P60524.1|",
+        "length": 146,
+        "evalue": 2.03629e-93,
+        "identity_percentage": 89.72602739726028
+    },
+    {
+        "id": "sp|P02046.1|",
+        "length": 146,
+        "evalue": 2.89166e-93,
+        "identity_percentage": 91.0958904109589
+    },
+    {
+        "id": "sp|P02047.1|",
+        "length": 146,
+        "evalue": 4.3376e-93,
+        "identity_percentage": 91.0958904109589
+    },
+    {
+        "id": "sp|P18984.1|",
+        "length": 146,
+        "evalue": 5.2259e-93,
+        "identity_percentage": 90.41095890410958
+    },
+    {
+        "id": "sp|P68011.1|",
+        "length": 146,
+        "evalue": 5.70475e-93,
+        "identity_percentage": 89.72602739726028
+    },
+    {
+        "id": "sp|P02051.1|",
+        "length": 146,
+        "evalue": 7.26013e-93,
+        "identity_percentage": 89.72602739726028
+    },
+    {
+        "id": "sp|P24660.1|",
+        "length": 146,
+        "evalue": 1.49646e-92,
+        "identity_percentage": 89.72602739726028
+    },
+    {
+        "id": "sp|P02050.1|",
+        "length": 146,
+        "evalue": 2.92e-92,
+        "identity_percentage": 89.04109589041096
+    },
+    {
+        "id": "sp|D0VX08.1|",
+        "length": 146,
+        "evalue": 8.17993e-92,
+        "identity_percentage": 89.04109589041096
+    },
+    {
+        "id": "sp|P14392.1|",
+        "length": 146,
+        "evalue": 3.36255e-91,
+        "identity_percentage": 89.04109589041096
+    },
+    {
+        "id": "sp|P28781.1|",
+        "length": 146,
+        "evalue": 6.93041e-91,
+        "identity_percentage": 87.67123287671232
+    },
+    {
+        "id": "sp|P18986.1|",
+        "length": 146,
+        "evalue": 3.87157e-90,
+        "identity_percentage": 87.5
+    },
+    {
+        "id": "sp|P11752.1|",
+        "length": 146,
+        "evalue": 4.0896e-90,
+        "identity_percentage": 86.3013698630137
+    },
+    {
+        "id": "sp|P02058.1|",
+        "length": 146,
+        "evalue": 8.33663e-90,
+        "identity_percentage": 86.98630136986301
+    },
+    {
+        "id": "sp|P23020.1|",
+        "length": 146,
+        "evalue": 9.93408e-90,
+        "identity_percentage": 87.5
+    },
+    {
+        "id": "sp|B2KHZ4.1|",
+        "length": 147,
+        "evalue": 7.22466e-89,
+        "identity_percentage": 86.39455782312925
+    },
+    {
+        "id": "sp|P21667.1|",
+        "length": 146,
+        "evalue": 1.08057e-87,
+        "identity_percentage": 84.72222222222221
+    },
+    {
+        "id": "sp|P02067.3|",
+        "length": 147,
+        "evalue": 1.09347e-87,
+        "identity_percentage": 85.03401360544217
+    },
+    {
+        "id": "sp|P20855.1|",
+        "length": 146,
+        "evalue": 1.2876e-87,
+        "identity_percentage": 84.24657534246576
+    },
+    {
+        "id": "sp|P19646.1|",
+        "length": 146,
+        "evalue": 1.31612e-87,
+        "identity_percentage": 85.41666666666666
+    },
+    {
+        "id": "sp|P19016.1|",
+        "length": 146,
+        "evalue": 1.82823e-87,
+        "identity_percentage": 85.61643835616438
+    },
+    {
+        "id": "sp|P02049.1|",
+        "length": 146,
+        "evalue": 2.4575e-87,
+        "identity_percentage": 92.46575342465754
+    },
+    {
+        "id": "sp|P02090.1|",
+        "length": 146,
+        "evalue": 8.1112e-87,
+        "identity_percentage": 82.1917808219178
+    },
+    {
+        "id": "sp|P41328.1|",
+        "length": 146,
+        "evalue": 8.85414e-87,
+        "identity_percentage": 84.72222222222221
+    },
+    {
+        "id": "sp|P14388.1|",
+        "length": 146,
+        "evalue": 1.78497e-86,
+        "identity_percentage": 85.61643835616438
+    },
+    {
+        "id": "sp|Q7M3C2.1|",
+        "length": 146,
+        "evalue": 2.15035e-86,
+        "identity_percentage": 84.72222222222221
+    },
+    {
+        "id": "sp|P02048.1|",
+        "length": 146,
+        "evalue": 5.1654e-86,
+        "identity_percentage": 91.0958904109589
+    },
+    {
+        "id": "sp|P13558.2|",
+        "length": 147,
+        "evalue": 5.96098e-86,
+        "identity_percentage": 88.43537414965986
+    },
+    {
+        "id": "sp|P02054.1|",
+        "length": 146,
+        "evalue": 6.29124e-86,
+        "identity_percentage": 84.02777777777779
+    },
+    {
+        "id": "sp|P07412.1|",
+        "length": 146,
+        "evalue": 8.64368e-86,
+        "identity_percentage": 84.02777777777779
+    },
+    {
+        "id": "sp|Q03902.2|",
+        "length": 147,
+        "evalue": 1.03081e-85,
+        "identity_percentage": 89.79591836734694
+    },
+    {
+        "id": "sp|P04244.2|",
+        "length": 147,
+        "evalue": 1.20165e-85,
+        "identity_percentage": 80.95238095238095
+    },
+    {
+        "id": "sp|Q45XI8.3|",
+        "length": 147,
+        "evalue": 2.14737e-85,
+        "identity_percentage": 81.63265306122449
+    },
+    {
+        "id": "sp|P02091.3|",
+        "length": 147,
+        "evalue": 2.64418e-85,
+        "identity_percentage": 81.63265306122449
+    },
+    {
+        "id": "sp|P02088.2|",
+        "length": 147,
+        "evalue": 3.01562e-85,
+        "identity_percentage": 80.27210884353741
+    },
+    {
+        "id": "sp|B3EWD2.1|",
+        "length": 146,
+        "evalue": 3.21783e-85,
+        "identity_percentage": 82.87671232876713
+    },
+    {
+        "id": "sp|Q45XH7.3|",
+        "length": 147,
+        "evalue": 4.57238e-85,
+        "identity_percentage": 78.91156462585033
+    },
+    {
+        "id": "sp|P02059.1|",
+        "length": 146,
+        "evalue": 8.34497e-85,
+        "identity_percentage": 82.1917808219178
+    },
+    {
+        "id": "sp|P07415.1|",
+        "length": 146,
+        "evalue": 1.98253e-84,
+        "identity_percentage": 81.5068493150685
+    },
+    {
+        "id": "sp|P02089.2|",
+        "length": 147,
+        "evalue": 2.18963e-84,
+        "identity_percentage": 80.27210884353741
+    },
+    {
+        "id": "sp|P68048.2|",
+        "length": 147,
+        "evalue": 2.41647e-84,
+        "identity_percentage": 80.27210884353741
+    },
+    {
+        "id": "sp|Q45XH8.2|",
+        "length": 147,
+        "evalue": 2.87932e-84,
+        "identity_percentage": 78.2312925170068
+    },
+    {
+        "id": "sp|P02052.1|",
+        "length": 146,
+        "evalue": 3.50407e-84,
+        "identity_percentage": 82.1917808219178
+    },
+    {
+        "id": "sp|Q28931.3|",
+        "length": 147,
+        "evalue": 3.95579e-84,
+        "identity_percentage": 78.2312925170068
+    },
+    {
+        "id": "sp|P02101.3|",
+        "length": 147,
+        "evalue": 4.271e-84,
+        "identity_percentage": 77.55102040816327
+    },
+    {
+        "id": "sp|P18988.2|",
+        "length": 146,
+        "evalue": 5.67372e-84,
+        "identity_percentage": 81.94444444444444
+    },
+    {
+        "id": "sp|P68050.1|",
+        "length": 146,
+        "evalue": 8.32435e-84,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "sp|P11758.1|",
+        "length": 146,
+        "evalue": 1.05924e-83,
+        "identity_percentage": 81.5068493150685
+    },
+    {
+        "id": "sp|P68065.1|",
+        "length": 146,
+        "evalue": 1.11887e-83,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "sp|P68064.2|",
+        "length": 147,
+        "evalue": 1.13204e-83,
+        "identity_percentage": 80.27210884353741
+    },
+    {
+        "id": "sp|P18435.2|",
+        "length": 147,
+        "evalue": 1.44047e-83,
+        "identity_percentage": 77.55102040816327
+    },
+    {
+        "id": "sp|P02102.2|",
+        "length": 147,
+        "evalue": 2.35799e-83,
+        "identity_percentage": 77.55102040816327
+    },
+    {
+        "id": "sp|P11517.2|",
+        "length": 147,
+        "evalue": 2.63091e-83,
+        "identity_percentage": 78.91156462585033
+    },
+    {
+        "id": "sp|Q45XH3.3|",
+        "length": 147,
+        "evalue": 3.57506e-83,
+        "identity_percentage": 78.2312925170068
+    },
+    {
+        "id": "sp|P04246.1|",
+        "length": 146,
+        "evalue": 3.98591e-83,
+        "identity_percentage": 77.3972602739726
+    },
+    {
+        "id": "sp|P02061.1|",
+        "length": 146,
+        "evalue": 7.77433e-83,
+        "identity_percentage": 79.45205479452055
+    },
+    {
+        "id": "sp|B3EWD8.1|",
+        "length": 146,
+        "evalue": 8.034e-83,
+        "identity_percentage": 79.45205479452055
+    },
+    {
+        "id": "sp|Q2KPA3.3|",
+        "length": 147,
+        "evalue": 1.12898e-82,
+        "identity_percentage": 78.91156462585033
+    },
+    {
+        "id": "sp|P07410.1|",
+        "length": 146,
+        "evalue": 1.6193e-82,
+        "identity_percentage": 77.3972602739726
+    },
+    {
+        "id": "sp|P51438.2|",
+        "length": 147,
+        "evalue": 1.71165e-82,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|Q45XI9.3|",
+        "length": 147,
+        "evalue": 1.88895e-82,
+        "identity_percentage": 81.63265306122449
+    },
+    {
+        "id": "sp|B3EWE4.1|",
+        "length": 146,
+        "evalue": 2.01581e-82,
+        "identity_percentage": 80.13698630136986
+    },
+    {
+        "id": "sp|Q28356.3|",
+        "length": 147,
+        "evalue": 2.13077e-82,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|P18994.2|",
+        "length": 147,
+        "evalue": 3.48782e-82,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|P51440.2|",
+        "length": 147,
+        "evalue": 3.80716e-82,
+        "identity_percentage": 75.51020408163265
+    },
+    {
+        "id": "sp|P68026.2|",
+        "length": 147,
+        "evalue": 4.06572e-82,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|B3EWD6.1|",
+        "length": 146,
+        "evalue": 4.53312e-82,
+        "identity_percentage": 80.82191780821918
+    },
+    {
+        "id": "sp|Q95190.3|",
+        "length": 147,
+        "evalue": 4.63669e-82,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|Q28338.3|",
+        "length": 147,
+        "evalue": 5.58544e-82,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|Q28507.3|",
+        "length": 147,
+        "evalue": 5.96475e-82,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|P68016.2|",
+        "length": 147,
+        "evalue": 6.51087e-82,
+        "identity_percentage": 75.51020408163265
+    },
+    {
+        "id": "sp|P08853.1|",
+        "length": 146,
+        "evalue": 6.57808e-82,
+        "identity_percentage": 76.71232876712328
+    },
+    {
+        "id": "sp|Q45XJ0.3|",
+        "length": 147,
+        "evalue": 6.87731e-82,
+        "identity_percentage": 80.95238095238095
+    },
+    {
+        "id": "sp|P19759.2|",
+        "length": 147,
+        "evalue": 1.17612e-81,
+        "identity_percentage": 74.82993197278913
+    },
+    {
+        "id": "sp|B3EWD4.1|",
+        "length": 146,
+        "evalue": 1.59706e-81,
+        "identity_percentage": 79.45205479452055
+    },
+    {
+        "id": "sp|P51441.2|",
+        "length": 147,
+        "evalue": 1.59812e-81,
+        "identity_percentage": 74.82993197278913
+    },
+    {
+        "id": "sp|P09421.1|",
+        "length": 146,
+        "evalue": 2.00998e-81,
+        "identity_percentage": 77.3972602739726
+    },
+    {
+        "id": "sp|P51443.2|",
+        "length": 147,
+        "evalue": 2.05585e-81,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|P02084.1|",
+        "length": 146,
+        "evalue": 2.07711e-81,
+        "identity_percentage": 81.5068493150685
+    },
+    {
+        "id": "sp|Q95238.3|",
+        "length": 147,
+        "evalue": 2.50375e-81,
+        "identity_percentage": 74.82993197278913
+    },
+    {
+        "id": "sp|B3EWC8.1|",
+        "length": 146,
+        "evalue": 2.70145e-81,
+        "identity_percentage": 85.61643835616438
+    },
+    {
+        "id": "sp|P68028.2|",
+        "length": 147,
+        "evalue": 3.04924e-81,
+        "identity_percentage": 74.82993197278913
+    },
+    {
+        "id": "sp|P02103.2|",
+        "length": 147,
+        "evalue": 3.59356e-81,
+        "identity_percentage": 75.51020408163265
+    },
+    {
+        "id": "sp|Q2KPA4.3|",
+        "length": 147,
+        "evalue": 5.32995e-81,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|P02110.2|",
+        "length": 147,
+        "evalue": 6.0122e-81,
+        "identity_percentage": 78.91156462585033
+    },
+    {
+        "id": "sp|P08223.2|",
+        "length": 147,
+        "evalue": 6.21298e-81,
+        "identity_percentage": 74.82993197278913
+    },
+    {
+        "id": "sp|P02100.2|",
+        "length": 147,
+        "evalue": 6.21298e-81,
+        "identity_percentage": 75.51020408163265
+    },
+    {
+        "id": "sp|Q28775.3|",
+        "length": 147,
+        "evalue": 8.25925e-81,
+        "identity_percentage": 74.82993197278913
+    },
+    {
+        "id": "sp|Q28496.3|",
+        "length": 147,
+        "evalue": 8.72404e-81,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|P11754.1|",
+        "length": 146,
+        "evalue": 9.51671e-81,
+        "identity_percentage": 86.3013698630137
+    },
+    {
+        "id": "sp|P02085.1|",
+        "length": 146,
+        "evalue": 9.62149e-81,
+        "identity_percentage": 80.82191780821918
+    },
+    {
+        "id": "sp|Q29415.3|",
+        "length": 147,
+        "evalue": 1.02813e-80,
+        "identity_percentage": 74.82993197278913
+    },
+    {
+        "id": "sp|P19760.3|",
+        "length": 147,
+        "evalue": 1.02813e-80,
+        "identity_percentage": 75.51020408163265
+    },
+    {
+        "id": "sp|P18990.1|",
+        "length": 146,
+        "evalue": 1.39613e-80,
+        "identity_percentage": 86.3013698630137
+    },
+    {
+        "id": "sp|P09905.1|",
+        "length": 146,
+        "evalue": 1.4115e-80,
+        "identity_percentage": 85.61643835616438
+    },
+    {
+        "id": "sp|P51442.2|",
+        "length": 147,
+        "evalue": 1.49186e-80,
+        "identity_percentage": 74.82993197278913
+    },
+    {
+        "id": "sp|P14526.3|",
+        "length": 147,
+        "evalue": 1.62844e-80,
+        "identity_percentage": 78.2312925170068
+    },
+    {
+        "id": "sp|B3EWE2.1|",
+        "length": 146,
+        "evalue": 2.16342e-80,
+        "identity_percentage": 86.89655172413792
+    },
+    {
+        "id": "sp|B3EWD0.1|",
+        "length": 146,
+        "evalue": 2.63473e-80,
+        "identity_percentage": 85.61643835616438
+    },
+    {
+        "id": "sp|P09840.1|",
+        "length": 146,
+        "evalue": 2.9076e-80,
+        "identity_percentage": 84.93150684931507
+    },
+    {
+        "id": "sp|P02094.2|",
+        "length": 147,
+        "evalue": 3.10692e-80,
+        "identity_percentage": 75.51020408163265
+    },
+    {
+        "id": "sp|P11025.2|",
+        "length": 147,
+        "evalue": 3.95314e-80,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|Q28220.3|",
+        "length": 147,
+        "evalue": 4.22156e-80,
+        "identity_percentage": 74.14965986394559
+    },
+    {
+        "id": "sp|P08225.2|",
+        "length": 147,
+        "evalue": 5.25503e-80,
+        "identity_percentage": 75.51020408163265
+    },
+    {
+        "id": "sp|P08224.2|",
+        "length": 147,
+        "evalue": 7.21891e-80,
+        "identity_percentage": 75.51020408163265
+    },
+    {
+        "id": "sp|P04245.1|",
+        "length": 145,
+        "evalue": 1.62122e-79,
+        "identity_percentage": 85.41666666666666
+    },
+    {
+        "id": "sp|Q45XH5.3|",
+        "length": 147,
+        "evalue": 1.73327e-79,
+        "identity_percentage": 74.14965986394559
+    },
+    {
+        "id": "sp|P68230.2|",
+        "length": 147,
+        "evalue": 1.93381e-79,
+        "identity_percentage": 84.35374149659864
+    },
+    {
+        "id": "sp|Q7M2Y5.2|",
+        "length": 147,
+        "evalue": 2.80594e-79,
+        "identity_percentage": 85.03401360544217
+    },
+    {
+        "id": "sp|P68077.2|",
+        "length": 147,
+        "evalue": 2.99645e-79,
+        "identity_percentage": 74.14965986394559
+    },
+    {
+        "id": "sp|Q45XI7.3|",
+        "length": 147,
+        "evalue": 3.30674e-79,
+        "identity_percentage": 76.19047619047619
+    },
+    {
+        "id": "sp|P02093.2|",
+        "length": 146,
+        "evalue": 3.72785e-79,
+        "identity_percentage": 75.34246575342466
+    },
+    {
+        "id": "sp|P02087.3|",
+        "length": 147,
+        "evalue": 4.2073e-79,
+        "identity_percentage": 78.2312925170068
+    },
+    {
+        "id": "sp|P68226.2|",
+        "length": 147,
+        "evalue": 4.90421e-79,
+        "identity_percentage": 83.6734693877551
+    },
+    {
+        "id": "sp|P67819.1|",
+        "length": 145,
+        "evalue": 5.0624e-79,
+        "identity_percentage": 85.41666666666666
+    },
+    {
+        "id": "sp|P04346.1|",
+        "length": 145,
+        "evalue": 6.72948e-79,
+        "identity_percentage": 85.41666666666666
+    },
+    {
+        "id": "sp|P61921.2|",
+        "length": 147,
+        "evalue": 7.03837e-79,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|Q28779.3|",
+        "length": 147,
+        "evalue": 9.35602e-79,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|P18995.2|",
+        "length": 147,
+        "evalue": 1.04385e-78,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|P61948.2|",
+        "length": 147,
+        "evalue": 1.10258e-78,
+        "identity_percentage": 74.14965986394559
+    },
+    {
+        "id": "sp|P68087.2|",
+        "length": 147,
+        "evalue": 1.58237e-78,
+        "identity_percentage": 83.6734693877551
+    },
+    {
+        "id": "sp|P02111.1|",
+        "length": 146,
+        "evalue": 1.96865e-78,
+        "identity_percentage": 76.71232876712328
+    },
+    {
+        "id": "sp|P02070.1|",
+        "length": 145,
+        "evalue": 2.17137e-78,
+        "identity_percentage": 84.72222222222221
+    },
+    {
+        "id": "sp|P02078.2|",
+        "length": 142,
+        "evalue": 3.39652e-78,
+        "identity_percentage": 79.85611510791367
+    },
+    {
+        "id": "sp|O13071.3|",
+        "length": 142,
+        "evalue": 3.66706e-78,
+        "identity_percentage": 76.05633802816901
+    },
+    {
+        "id": "sp|P61920.2|",
+        "length": 147,
+        "evalue": 4.14659e-78,
+        "identity_percentage": 72.78911564625851
+    },
+    {
+        "id": "sp|P02072.1|",
+        "length": 145,
+        "evalue": 4.62163e-78,
+        "identity_percentage": 84.02777777777779
+    },
+    {
+        "id": "sp|P61947.2|",
+        "length": 147,
+        "evalue": 4.67723e-78,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|O77655.3|",
+        "length": 147,
+        "evalue": 5.16151e-78,
+        "identity_percentage": 72.10884353741497
+    },
+    {
+        "id": "sp|P02097.1|",
+        "length": 146,
+        "evalue": 5.27309e-78,
+        "identity_percentage": 73.79310344827587
+    },
+    {
+        "id": "sp|P02066.1|",
+        "length": 146,
+        "evalue": 5.44914e-78,
+        "identity_percentage": 85.61643835616438
+    },
+    {
+        "id": "sp|P09907.1|",
+        "length": 146,
+        "evalue": 5.81908e-78,
+        "identity_percentage": 84.93150684931507
+    },
+    {
+        "id": "sp|P02104.2|",
+        "length": 147,
+        "evalue": 1.0175e-77,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|P69891.3|",
+        "length": 147,
+        "evalue": 1.08658e-77,
+        "identity_percentage": 72.78911564625851
+    },
+    {
+        "id": "sp|P02060.1|",
+        "length": 146,
+        "evalue": 1.14714e-77,
+        "identity_percentage": 84.24657534246576
+    },
+    {
+        "id": "sp|P11756.1|",
+        "length": 146,
+        "evalue": 1.27985e-77,
+        "identity_percentage": 83.56164383561644
+    },
+    {
+        "id": "sp|Q45XH6.3|",
+        "length": 147,
+        "evalue": 1.35251e-77,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|Q6H1U7.3|",
+        "length": 147,
+        "evalue": 1.41305e-77,
+        "identity_percentage": 74.14965986394559
+    },
+    {
+        "id": "sp|P18996.3|",
+        "length": 147,
+        "evalue": 1.4286e-77,
+        "identity_percentage": 72.10884353741497
+    },
+    {
+        "id": "sp|P62741.2|",
+        "length": 147,
+        "evalue": 1.4763e-77,
+        "identity_percentage": 72.78911564625851
+    },
+    {
+        "id": "sp|P18707.1|",
+        "length": 146,
+        "evalue": 2.0269e-77,
+        "identity_percentage": 73.97260273972603
+    },
+    {
+        "id": "sp|P02107.1|",
+        "length": 146,
+        "evalue": 2.07176e-77,
+        "identity_percentage": 74.65753424657534
+    },
+    {
+        "id": "sp|P02099.2|",
+        "length": 147,
+        "evalue": 2.18936e-77,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|P06643.2|",
+        "length": 147,
+        "evalue": 2.21346e-77,
+        "identity_percentage": 70.74829931972789
+    },
+    {
+        "id": "sp|P02095.1|",
+        "length": 146,
+        "evalue": 3.54231e-77,
+        "identity_percentage": 75.34246575342466
+    },
+    {
+        "id": "sp|P09422.1|",
+        "length": 145,
+        "evalue": 3.95027e-77,
+        "identity_percentage": 83.33333333333334
+    },
+    {
+        "id": "sp|Q45XI5.3|",
+        "length": 147,
+        "evalue": 3.99744e-77,
+        "identity_percentage": 73.46938775510205
+    },
+    {
+        "id": "sp|P02053.2|",
+        "length": 147,
+        "evalue": 4.26879e-77,
+        "identity_percentage": 82.31292517006803
+    },
+    {
+        "id": "sp|P02062.1|",
+        "length": 146,
+        "evalue": 6.7572e-77,
+        "identity_percentage": 83.56164383561644
+    },
+    {
+        "id": "sp|P67823.1|",
+        "length": 146,
+        "evalue": 7.70571e-77,
+        "identity_percentage": 83.56164383561644
+    },
+    {
+        "id": "sp|P02109.3|",
+        "length": 147,
+        "evalue": 8.60094e-77,
+        "identity_percentage": 71.42857142857143
+    },
+    {
+        "id": "sp|P24292.1|",
+        "length": 146,
+        "evalue": 1.118e-76,
+        "identity_percentage": 75.34246575342466
+    },
+    {
+        "id": "sp|B3EWE0.1|",
+        "length": 146,
+        "evalue": 1.26105e-76,
+        "identity_percentage": 81.5068493150685
+    },
+    {
+        "id": "sp|P02106.1|",
+        "length": 146,
+        "evalue": 1.26105e-76,
+        "identity_percentage": 73.97260273972603
+    },
+    {
+        "id": "sp|P02073.1|",
+        "length": 145,
+        "evalue": 1.33141e-76,
+        "identity_percentage": 84.02777777777779
+    },
+    {
+        "id": "sp|P02105.2|",
+        "length": 147,
+        "evalue": 1.9979e-76,
+        "identity_percentage": 70.74829931972789
+    },
+    {
+        "id": "sp|Q45XI4.3|",
+        "length": 147,
+        "evalue": 2.45975e-76,
+        "identity_percentage": 72.78911564625851
+    },
+    {
+        "id": "sp|P02086.1|",
+        "length": 146,
+        "evalue": 4.20366e-76,
+        "identity_percentage": 83.56164383561644
+    },
+    {
+        "id": "sp|P68030.2|",
+        "length": 147,
+        "evalue": 6.51541e-76,
+        "identity_percentage": 72.10884353741497
+    },
+    {
+        "id": "sp|Q45XI6.3|",
+        "length": 147,
+        "evalue": 7.84779e-76,
+        "identity_percentage": 72.10884353741497
+    },
+    {
+        "id": "sp|Q9GJS7.3|",
+        "length": 147,
+        "evalue": 8.28922e-76,
+        "identity_percentage": 71.42857142857143
+    },
+    {
+        "id": "sp|P68256.2|",
+        "length": 147,
+        "evalue": 1.0662e-75,
+        "identity_percentage": 71.42857142857143
+    },
+    {
+        "id": "sp|P68257.2|",
+        "length": 147,
+        "evalue": 1.08979e-75,
+        "identity_percentage": 71.42857142857143
+    },
+    {
+        "id": "sp|Q28932.3|",
+        "length": 147,
+        "evalue": 1.40174e-75,
+        "identity_percentage": 71.42857142857143
+    },
+    {
+        "id": "sp|P68068.2|",
+        "length": 147,
+        "evalue": 1.43276e-75,
+        "identity_percentage": 72.10884353741497
+    },
+    {
+        "id": "sp|P04444.3|",
+        "length": 147,
+        "evalue": 3.55365e-75,
+        "identity_percentage": 69.38775510204081
+    },
+    {
+        "id": "sp|P21380.1|",
+        "length": 145,
+        "evalue": 4.04942e-75,
+        "identity_percentage": 81.94444444444444
+    },
+    {
+        "id": "sp|P02075.2|",
+        "length": 145,
+        "evalue": 7.15405e-75,
+        "identity_percentage": 82.63888888888889
+    },
+    {
+        "id": "sp|P56285.2|",
+        "length": 147,
+        "evalue": 1.29272e-74,
+        "identity_percentage": 71.42857142857143
+    },
+    {
+        "id": "sp|P02108.1|",
+        "length": 146,
+        "evalue": 2.51925e-74,
+        "identity_percentage": 71.23287671232876
+    },
+    {
+        "id": "sp|Q27940.3|",
+        "length": 147,
+        "evalue": 2.60418e-74,
+        "identity_percentage": 70.74829931972789
+    },
+    {
+        "id": "sp|Q9GLX4.3|",
+        "length": 147,
+        "evalue": 3.06873e-74,
+        "identity_percentage": 71.42857142857143
+    },
+    {
+        "id": "sp|P02064.1|",
+        "length": 146,
+        "evalue": 3.61499e-74,
+        "identity_percentage": 82.87671232876713
+    },
+    {
+        "id": "sp|P84792.2|",
+        "length": 147,
+        "evalue": 3.77795e-74,
+        "identity_percentage": 70.06802721088435
+    },
+    {
+        "id": "sp|P14524.1|",
+        "length": 146,
+        "evalue": 1.11585e-73,
+        "identity_percentage": 71.91780821917808
+    },
+    {
+        "id": "sp|P02112.2|",
+        "length": 147,
+        "evalue": 1.54989e-73,
+        "identity_percentage": 69.38775510204081
+    },
+    {
+        "id": "sp|P02081.1|",
+        "length": 145,
+        "evalue": 1.6007e-73,
+        "identity_percentage": 78.47222222222221
+    },
+    {
+        "id": "sp|P02077.1|",
+        "length": 145,
+        "evalue": 1.8454e-73,
+        "identity_percentage": 80.55555555555556
+    },
+    {
+        "id": "sp|P02074.1|",
+        "length": 145,
+        "evalue": 2.37352e-73,
+        "identity_percentage": 81.94444444444444
+    },
+    {
+        "id": "sp|P81042.3|",
+        "length": 147,
+        "evalue": 3.19107e-73,
+        "identity_percentage": 76.87074829931973
+    },
+    {
+        "id": "sp|P06642.2|",
+        "length": 147,
+        "evalue": 4.33502e-73,
+        "identity_percentage": 68.02721088435374
+    },
+    {
+        "id": "sp|P02114.2|",
+        "length": 147,
+        "evalue": 4.47967e-73,
+        "identity_percentage": 69.38775510204081
+    },
+    {
+        "id": "sp|P14260.2|",
+        "length": 147,
+        "evalue": 4.57878e-73,
+        "identity_percentage": 69.38775510204081
+    },
+    {
+        "id": "sp|P29626.2|",
+        "length": 147,
+        "evalue": 5.27867e-73,
+        "identity_percentage": 68.02721088435374
+    },
+    {
+        "id": "sp|P02127.2|",
+        "length": 147,
+        "evalue": 5.82494e-73,
+        "identity_percentage": 65.98639455782312
+    },
+    {
+        "id": "sp|P02117.1|",
+        "length": 146,
+        "evalue": 1.26637e-72,
+        "identity_percentage": 69.17808219178082
+    },
+    {
+        "id": "sp|P02076.1|",
+        "length": 145,
+        "evalue": 1.29409e-72,
+        "identity_percentage": 72.22222222222221
+    },
+    {
+        "id": "sp|P04443.5|",
+        "length": 147,
+        "evalue": 1.38254e-72,
+        "identity_percentage": 66.66666666666666
+    },
+    {
+        "id": "sp|P02118.1|",
+        "length": 146,
+        "evalue": 1.52525e-72,
+        "identity_percentage": 69.17808219178082
+    },
+    {
+        "id": "sp|P68944.1|",
+        "length": 146,
+        "evalue": 1.75838e-72,
+        "identity_percentage": 69.17808219178082
+    },
+    {
+        "id": "sp|P07406.1|",
+        "length": 146,
+        "evalue": 1.79728e-72,
+        "identity_percentage": 70.54794520547945
+    },
+    {
+        "id": "sp|P22742.1|",
+        "length": 146,
+        "evalue": 1.83705e-72,
+        "identity_percentage": 69.17808219178082
+    },
+    {
+        "id": "sp|P11342.1|",
+        "length": 146,
+        "evalue": 1.89834e-72,
+        "identity_percentage": 69.17808219178082
+    },
+    {
+        "id": "sp|P02128.2|",
+        "length": 147,
+        "evalue": 1.98373e-72,
+        "identity_percentage": 65.98639455782312
+    },
+    {
+        "id": "sp|P02126.1|",
+        "length": 146,
+        "evalue": 2.16469e-72,
+        "identity_percentage": 70.54794520547945
+    },
+    {
+        "id": "sp|P02115.1|",
+        "length": 146,
+        "evalue": 3.03875e-72,
+        "identity_percentage": 69.86301369863014
+    },
+    {
+        "id": "sp|P68061.1|",
+        "length": 146,
+        "evalue": 3.14014e-72,
+        "identity_percentage": 68.4931506849315
+    },
+    {
+        "id": "sp|P10058.1|",
+        "length": 146,
+        "evalue": 3.5807e-72,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|P21668.1|",
+        "length": 146,
+        "evalue": 5.48626e-72,
+        "identity_percentage": 69.17808219178082
+    },
+    {
+        "id": "sp|P30893.1|",
+        "length": 146,
+        "evalue": 7.45273e-72,
+        "identity_percentage": 68.4931506849315
+    },
+    {
+        "id": "sp|P82113.1|",
+        "length": 146,
+        "evalue": 8.22389e-72,
+        "identity_percentage": 68.4931506849315
+    },
+    {
+        "id": "sp|P02116.1|",
+        "length": 146,
+        "evalue": 9.37764e-72,
+        "identity_percentage": 69.17808219178082
+    },
+    {
+        "id": "sp|P02083.1|",
+        "length": 145,
+        "evalue": 1.08088e-71,
+        "identity_percentage": 77.77777777777779
+    },
+    {
+        "id": "sp|P02121.1|",
+        "length": 146,
+        "evalue": 1.3455e-71,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|P07411.1|",
+        "length": 146,
+        "evalue": 1.46857e-71,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|P02124.1|",
+        "length": 146,
+        "evalue": 1.50106e-71,
+        "identity_percentage": 68.4931506849315
+    },
+    {
+        "id": "sp|P02113.1|",
+        "length": 146,
+        "evalue": 1.71164e-71,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|P10782.1|",
+        "length": 146,
+        "evalue": 1.73046e-71,
+        "identity_percentage": 68.4931506849315
+    },
+    {
+        "id": "sp|P02082.1|",
+        "length": 145,
+        "evalue": 1.97289e-71,
+        "identity_percentage": 77.77777777777779
+    },
+    {
+        "id": "sp|P02065.1|",
+        "length": 146,
+        "evalue": 2.27479e-71,
+        "identity_percentage": 80.13698630136986
+    },
+    {
+        "id": "sp|P02122.1|",
+        "length": 146,
+        "evalue": 2.42911e-71,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|P07036.1|",
+        "length": 146,
+        "evalue": 3.52357e-71,
+        "identity_percentage": 68.4931506849315
+    },
+    {
+        "id": "sp|Q7LZB9.1|",
+        "length": 146,
+        "evalue": 4.73434e-71,
+        "identity_percentage": 68.4931506849315
+    },
+    {
+        "id": "sp|P68056.2|",
+        "length": 142,
+        "evalue": 6.01924e-71,
+        "identity_percentage": 80.57553956834532
+    },
+    {
+        "id": "sp|P68058.1|",
+        "length": 141,
+        "evalue": 6.71435e-71,
+        "identity_percentage": 80.57553956834532
+    },
+    {
+        "id": "sp|P02123.1|",
+        "length": 146,
+        "evalue": 7.33321e-71,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|P68057.1|",
+        "length": 141,
+        "evalue": 8.2657e-71,
+        "identity_percentage": 80.57553956834532
+    },
+    {
+        "id": "sp|P18436.2|",
+        "length": 148,
+        "evalue": 8.45631e-71,
+        "identity_percentage": 66.8918918918919
+    },
+    {
+        "id": "sp|P80216.1|",
+        "length": 146,
+        "evalue": 9.3285e-71,
+        "identity_percentage": 68.4931506849315
+    },
+    {
+        "id": "sp|P02120.1|",
+        "length": 146,
+        "evalue": 1.3384e-70,
+        "identity_percentage": 67.12328767123287
+    },
+    {
+        "id": "sp|P08261.1|",
+        "length": 146,
+        "evalue": 2.84692e-70,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|P10061.1|",
+        "length": 146,
+        "evalue": 2.87824e-70,
+        "identity_percentage": 67.12328767123287
+    },
+    {
+        "id": "sp|P83123.3|",
+        "length": 147,
+        "evalue": 4.65789e-70,
+        "identity_percentage": 68.02721088435374
+    },
+    {
+        "id": "sp|P08851.1|",
+        "length": 146,
+        "evalue": 7.37324e-70,
+        "identity_percentage": 67.12328767123287
+    },
+    {
+        "id": "sp|P02125.1|",
+        "length": 146,
+        "evalue": 1.45268e-69,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|Q98905.3|",
+        "length": 147,
+        "evalue": 1.48491e-69,
+        "identity_percentage": 67.3469387755102
+    },
+    {
+        "id": "sp|P16418.1|",
+        "length": 146,
+        "evalue": 1.46007e-68,
+        "identity_percentage": 67.8082191780822
+    },
+    {
+        "id": "sp|P02092.1|",
+        "length": 146,
+        "evalue": 2.60672e-68,
+        "identity_percentage": 69.17808219178082
+    },
+    {
+        "id": "sp|P15165.1|",
+        "length": 146,
+        "evalue": 3.50207e-68,
+        "identity_percentage": 65.75342465753424
+    },
+    {
+        "id": "sp|P13274.1|",
+        "length": 146,
+        "evalue": 6.8988e-68,
+        "identity_percentage": 65.75342465753424
+    },
+    {
+        "id": "sp|P86390.1|",
+        "length": 146,
+        "evalue": 7.86615e-68,
+        "identity_percentage": 67.12328767123287
+    },
+    {
+        "id": "sp|P86391.1|",
+        "length": 146,
+        "evalue": 1.21821e-67,
+        "identity_percentage": 66.43835616438356
+    },
+    {
+        "id": "sp|P83133.1|",
+        "length": 146,
+        "evalue": 2.98623e-67,
+        "identity_percentage": 66.43835616438356
+    },
+    {
+        "id": "sp|P0C0U8.1|",
+        "length": 146,
+        "evalue": 3.05226e-67,
+        "identity_percentage": 66.43835616438356
+    },
+    {
+        "id": "sp|P02080.1|",
+        "length": 141,
+        "evalue": 3.5198e-67,
+        "identity_percentage": 65.71428571428571
+    },
+    {
+        "id": "sp|P41332.1|",
+        "length": 146,
+        "evalue": 4.3975e-66,
+        "identity_percentage": 65.06849315068493
+    },
+    {
+        "id": "sp|P14261.2|",
+        "length": 147,
+        "evalue": 7.59513e-66,
+        "identity_percentage": 61.224489795918366
+    },
+    {
+        "id": "sp|P18987.1|",
+        "length": 146,
+        "evalue": 2.34207e-65,
+        "identity_percentage": 64.38356164383562
+    },
+    {
+        "id": "sp|P18993.2|",
+        "length": 146,
+        "evalue": 4.04546e-65,
+        "identity_percentage": 65.06849315068493
+    },
+    {
+        "id": "sp|P22743.1|",
+        "length": 146,
+        "evalue": 9.91364e-65,
+        "identity_percentage": 64.38356164383562
+    },
+    {
+        "id": "sp|P10060.1|",
+        "length": 146,
+        "evalue": 9.73379e-64,
+        "identity_percentage": 63.6986301369863
+    },
+    {
+        "id": "sp|Q10733.1|",
+        "length": 146,
+        "evalue": 4.98688e-61,
+        "identity_percentage": 56.16438356164384
+    },
+    {
+        "id": "sp|P02136.2|",
+        "length": 147,
+        "evalue": 1.22629e-57,
+        "identity_percentage": 55.78231292517006
+    },
+    {
+        "id": "sp|P82316.1|",
+        "length": 146,
+        "evalue": 3.17386e-56,
+        "identity_percentage": 52.41379310344828
+    },
+    {
+        "id": "sp|P83114.1|",
+        "length": 145,
+        "evalue": 7.12347e-56,
+        "identity_percentage": 57.534246575342465
+    },
+    {
+        "id": "sp|P02129.1|",
+        "length": 146,
+        "evalue": 1.96372e-55,
+        "identity_percentage": 55.55555555555556
+    },
+    {
+        "id": "sp|P86919.1|",
+        "length": 146,
+        "evalue": 1.26878e-54,
+        "identity_percentage": 54.166666666666664
+    },
+    {
+        "id": "sp|P02137.2|",
+        "length": 147,
+        "evalue": 1.28148e-54,
+        "identity_percentage": 56.16438356164384
+    },
+    {
+        "id": "sp|P02142.1|",
+        "length": 146,
+        "evalue": 4.44884e-54,
+        "identity_percentage": 53.103448275862064
+    },
+    {
+        "id": "sp|P02139.1|",
+        "length": 147,
+        "evalue": 6.72718e-54,
+        "identity_percentage": 54.421768707483
+    },
+    {
+        "id": "sp|Q90486.3|",
+        "length": 148,
+        "evalue": 6.86856e-54,
+        "identity_percentage": 51.35135135135135
+    },
+    {
+        "id": "sp|Q90485.3|",
+        "length": 148,
+        "evalue": 2.35569e-53,
+        "identity_percentage": 50.0
+    },
+    {
+        "id": "sp|P02133.2|",
+        "length": 147,
+        "evalue": 5.46117e-53,
+        "identity_percentage": 53.06122448979592
+    },
+    {
+        "id": "sp|O13164.2|",
+        "length": 148,
+        "evalue": 9.41031e-53,
+        "identity_percentage": 52.02702702702703
+    },
+    {
+        "id": "sp|Q7LZC2.1|",
+        "length": 146,
+        "evalue": 1.16026e-52,
+        "identity_percentage": 52.41379310344828
+    },
+    {
+        "id": "sp|P80727.1|",
+        "length": 146,
+        "evalue": 1.32248e-52,
+        "identity_percentage": 53.103448275862064
+    },
+    {
+        "id": "sp|P08423.2|",
+        "length": 147,
+        "evalue": 2.96027e-52,
+        "identity_percentage": 54.794520547945204
+    },
+    {
+        "id": "sp|P83478.1|",
+        "length": 146,
+        "evalue": 6.02047e-52,
+        "identity_percentage": 51.724137931034484
+    },
+    {
+        "id": "sp|Q9PVM1.3|",
+        "length": 148,
+        "evalue": 6.84568e-52,
+        "identity_percentage": 50.67567567567568
+    },
+    {
+        "id": "sp|P02140.1|",
+        "length": 147,
+        "evalue": 1.71256e-51,
+        "identity_percentage": 51.02040816326531
+    },
+    {
+        "id": "sp|Q9PVM2.2|",
+        "length": 148,
+        "evalue": 3.28968e-51,
+        "identity_percentage": 50.0
+    },
+    {
+        "id": "sp|P02134.1|",
+        "length": 140,
+        "evalue": 3.91268e-51,
+        "identity_percentage": 58.08823529411765
+    },
+    {
+        "id": "sp|O13163.2|",
+        "length": 148,
+        "evalue": 1.92291e-50,
+        "identity_percentage": 53.37837837837838
+    },
+    {
+        "id": "sp|Q1AGS7.3|",
+        "length": 147,
+        "evalue": 7.85326e-50,
+        "identity_percentage": 51.02040816326531
+    },
+    {
+        "id": "sp|P02130.1|",
+        "length": 146,
+        "evalue": 8.30447e-50,
+        "identity_percentage": 50.71428571428571
+    },
+    {
+        "id": "sp|P84610.2|",
+        "length": 147,
+        "evalue": 6.36095e-49,
+        "identity_percentage": 51.02040816326531
+    },
+    {
+        "id": "sp|P18991.1|",
+        "length": 146,
+        "evalue": 9.32713e-49,
+        "identity_percentage": 53.42465753424658
+    },
+    {
+        "id": "sp|Q98TS0.3|",
+        "length": 148,
+        "evalue": 1.04831e-48,
+        "identity_percentage": 51.35135135135135
+    },
+    {
+        "id": "sp|P84204.1|",
+        "length": 146,
+        "evalue": 1.38057e-48,
+        "identity_percentage": 51.724137931034484
+    },
+    {
+        "id": "sp|P02131.1|",
+        "length": 146,
+        "evalue": 1.73541e-48,
+        "identity_percentage": 50.0
+    },
+    {
+        "id": "sp|P29627.1|",
+        "length": 102,
+        "evalue": 1.98345e-48,
+        "identity_percentage": 71.56862745098039
+    },
+    {
+        "id": "sp|P02141.3|",
+        "length": 148,
+        "evalue": 2.47842e-48,
+        "identity_percentage": 50.67567567567568
+    },
+    {
+        "id": "sp|Q91473.3|",
+        "length": 148,
+        "evalue": 3.55025e-48,
+        "identity_percentage": 50.0
+    },
+    {
+        "id": "sp|P07433.2|",
+        "length": 146,
+        "evalue": 6.00681e-48,
+        "identity_percentage": 47.22222222222222
+    },
+    {
+        "id": "sp|P23741.1|",
+        "length": 146,
+        "evalue": 1.90529e-47,
+        "identity_percentage": 47.94520547945205
+    },
+    {
+        "id": "sp|C0HJE1.1|",
+        "length": 146,
+        "evalue": 2.14774e-47,
+        "identity_percentage": 49.30555555555556
+    },
+    {
+        "id": "sp|P14521.1|",
+        "length": 147,
+        "evalue": 4.74739e-47,
+        "identity_percentage": 49.65986394557823
+    },
+    {
+        "id": "sp|P84206.1|",
+        "length": 147,
+        "evalue": 7.25854e-47,
+        "identity_percentage": 47.61904761904761
+    },
+    {
+        "id": "sp|P56251.1|",
+        "length": 147,
+        "evalue": 7.25854e-47,
+        "identity_percentage": 47.61904761904761
+    },
+    {
+        "id": "sp|P11749.1|",
+        "length": 146,
+        "evalue": 1.73703e-46,
+        "identity_percentage": 47.94520547945205
+    },
+    {
+        "id": "sp|Q1AGS3.1|",
+        "length": 132,
+        "evalue": 5.16915e-46,
+        "identity_percentage": 53.03030303030303
+    },
+    {
+        "id": "sp|P02135.1|",
+        "length": 140,
+        "evalue": 6.13709e-46,
+        "identity_percentage": 52.89855072463768
+    },
+    {
+        "id": "sp|P83624.1|",
+        "length": 146,
+        "evalue": 8.14785e-46,
+        "identity_percentage": 48.25174825174825
+    },
+    {
+        "id": "sp|Q6Y239.3|",
+        "length": 148,
+        "evalue": 1.91783e-45,
+        "identity_percentage": 47.97297297297297
+    },
+    {
+        "id": "sp|Q1AGS6.3|",
+        "length": 147,
+        "evalue": 4.68906e-45,
+        "identity_percentage": 44.21768707482993
+    },
+    {
+        "id": "sp|P02132.2|",
+        "length": 146,
+        "evalue": 9.95221e-45,
+        "identity_percentage": 45.83333333333333
+    },
+    {
+        "id": "sp|P10785.1|",
+        "length": 145,
+        "evalue": 9.97115e-45,
+        "identity_percentage": 47.22222222222222
+    },
+    {
+        "id": "sp|P83272.1|",
+        "length": 146,
+        "evalue": 1.03948e-44,
+        "identity_percentage": 46.206896551724135
+    },
+    {
+        "id": "sp|P83273.1|",
+        "length": 146,
+        "evalue": 1.134e-44,
+        "identity_percentage": 47.94520547945205
+    },
+    {
+        "id": "sp|P80946.1|",
+        "length": 147,
+        "evalue": 1.46947e-44,
+        "identity_percentage": 45.57823129251701
+    },
+    {
+        "id": "sp|O13078.2|",
+        "length": 147,
+        "evalue": 2.55904e-44,
+        "identity_percentage": 43.53741496598639
+    },
+    {
+        "id": "sp|P10786.1|",
+        "length": 145,
+        "evalue": 2.68332e-44,
+        "identity_percentage": 46.89655172413793
+    },
+    {
+        "id": "sp|O93348.3|",
+        "length": 147,
+        "evalue": 4.04076e-44,
+        "identity_percentage": 44.89795918367347
+    },
+    {
+        "id": "sp|P07432.2|",
+        "length": 146,
+        "evalue": 6.53361e-44,
+        "identity_percentage": 45.83333333333333
+    },
+    {
+        "id": "sp|P29625.2|",
+        "length": 147,
+        "evalue": 6.59179e-44,
+        "identity_percentage": 45.57823129251701
+    },
+    {
+        "id": "sp|P07429.2|",
+        "length": 147,
+        "evalue": 6.81039e-44,
+        "identity_percentage": 42.17687074829932
+    },
+    {
+        "id": "sp|P0C240.1|",
+        "length": 146,
+        "evalue": 7.28424e-44,
+        "identity_percentage": 44.52054794520548
+    },
+    {
+        "id": "sp|P84611.2|",
+        "length": 147,
+        "evalue": 1.05216e-43,
+        "identity_percentage": 44.21768707482993
+    },
+    {
+        "id": "sp|K7N5M6.1|",
+        "length": 146,
+        "evalue": 1.0543e-43,
+        "identity_percentage": 45.89041095890411
+    },
+    {
+        "id": "sp|O93351.3|",
+        "length": 147,
+        "evalue": 1.19881e-43,
+        "identity_percentage": 45.57823129251701
+    },
+    {
+        "id": "sp|P80044.2|",
+        "length": 147,
+        "evalue": 1.66119e-43,
+        "identity_percentage": 45.57823129251701
+    },
+    {
+        "id": "sp|C0HJT6.1|",
+        "length": 146,
+        "evalue": 1.89662e-43,
+        "identity_percentage": 45.89041095890411
+    },
+    {
+        "id": "sp|P02138.1|",
+        "length": 147,
+        "evalue": 2.13318e-43,
+        "identity_percentage": 48.29931972789115
+    },
+    {
+        "id": "sp|Q7LZC1.1|",
+        "length": 147,
+        "evalue": 2.27698e-43,
+        "identity_percentage": 45.57823129251701
+    },
+    {
+        "id": "sp|P0C239.1|",
+        "length": 146,
+        "evalue": 2.96202e-43,
+        "identity_percentage": 43.15068493150685
+    },
+    {
+        "id": "sp|P84604.2|",
+        "length": 147,
+        "evalue": 3.75454e-43,
+        "identity_percentage": 43.53741496598639
+    },
+    {
+        "id": "sp|O09232.2|",
+        "length": 147,
+        "evalue": 3.83707e-43,
+        "identity_percentage": 43.53741496598639
+    },
+    {
+        "id": "sp|P29628.1|",
+        "length": 146,
+        "evalue": 7.38243e-43,
+        "identity_percentage": 45.20547945205479
+    },
+    {
+        "id": "sp|B3EWR8.1|",
+        "length": 146,
+        "evalue": 1.14035e-42,
+        "identity_percentage": 48.275862068965516
+    },
+    {
+        "id": "sp|O93349.3|",
+        "length": 147,
+        "evalue": 2.43511e-42,
+        "identity_percentage": 43.53741496598639
+    },
+    {
+        "id": "sp|P23017.2|",
+        "length": 147,
+        "evalue": 3.48555e-42,
+        "identity_percentage": 45.57823129251701
+    },
+    {
+        "id": "sp|P84652.2|",
+        "length": 147,
+        "evalue": 3.80213e-42,
+        "identity_percentage": 44.89795918367347
+    },
+    {
+        "id": "sp|P86879.1|",
+        "length": 146,
+        "evalue": 4.63391e-42,
+        "identity_percentage": 45.51724137931035
+    },
+    {
+        "id": "sp|P45720.1|",
+        "length": 146,
+        "evalue": 4.83978e-42,
+        "identity_percentage": 43.83561643835616
+    },
+    {
+        "id": "sp|P07420.1|",
+        "length": 87,
+        "evalue": 7.34011e-42,
+        "identity_percentage": 78.16091954022988
+    },
+    {
+        "id": "sp|P23018.1|",
+        "length": 146,
+        "evalue": 1.3736e-41,
+        "identity_percentage": 45.89041095890411
+    },
+    {
+        "id": "sp|P83612.1|",
+        "length": 146,
+        "evalue": 2.12128e-41,
+        "identity_percentage": 44.52054794520548
+    },
+    {
+        "id": "sp|P16309.1|",
+        "length": 146,
+        "evalue": 2.49672e-41,
+        "identity_percentage": 43.15068493150685
+    },
+    {
+        "id": "sp|P85082.1|",
+        "length": 147,
+        "evalue": 3.16337e-41,
+        "identity_percentage": 45.57823129251701
+    },
+    {
+        "id": "sp|P80271.1|",
+        "length": 146,
+        "evalue": 4.3449e-41,
+        "identity_percentage": 41.78082191780822
+    },
+    {
+        "id": "sp|P83625.1|",
+        "length": 146,
+        "evalue": 5.3992e-41,
+        "identity_percentage": 43.83561643835616
+    },
+    {
+        "id": "sp|O13077.2|",
+        "length": 147,
+        "evalue": 1.2153e-39,
+        "identity_percentage": 41.49659863945578
+    },
+    {
+        "id": "sp|P82345.1|",
+        "length": 146,
+        "evalue": 3.13256e-39,
+        "identity_percentage": 43.83561643835616
+    },
+    {
+        "id": "sp|P86887.1|",
+        "length": 146,
+        "evalue": 7.14637e-39,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P83614.1|",
+        "length": 146,
+        "evalue": 1.06768e-38,
+        "identity_percentage": 43.15068493150685
+    },
+    {
+        "id": "sp|P45722.1|",
+        "length": 146,
+        "evalue": 2.43517e-38,
+        "identity_percentage": 43.15068493150685
+    },
+    {
+        "id": "sp|C0HJT7.1|",
+        "length": 146,
+        "evalue": 1.00832e-37,
+        "identity_percentage": 43.15068493150685
+    },
+    {
+        "id": "sp|P14520.1|",
+        "length": 142,
+        "evalue": 1.05327e-37,
+        "identity_percentage": 45.89041095890411
+    },
+    {
+        "id": "sp|P45721.1|",
+        "length": 146,
+        "evalue": 1.7914e-37,
+        "identity_percentage": 42.465753424657535
+    },
+    {
+        "id": "sp|P45718.1|",
+        "length": 142,
+        "evalue": 1.11924e-34,
+        "identity_percentage": 41.78082191780822
+    },
+    {
+        "id": "sp|P80043.1|",
+        "length": 142,
+        "evalue": 1.30242e-34,
+        "identity_percentage": 41.78082191780822
+    },
+    {
+        "id": "sp|P04241.1|",
+        "length": 141,
+        "evalue": 2.47486e-34,
+        "identity_percentage": 44.827586206896555
+    },
+    {
+        "id": "sp|P11748.1|",
+        "length": 143,
+        "evalue": 5.02298e-34,
+        "identity_percentage": 43.15068493150685
+    },
+    {
+        "id": "sp|P0C238.2|",
+        "length": 143,
+        "evalue": 1.02593e-33,
+        "identity_percentage": 42.465753424657535
+    },
+    {
+        "id": "sp|P84203.1|",
+        "length": 143,
+        "evalue": 1.59867e-33,
+        "identity_percentage": 42.465753424657535
+    },
+    {
+        "id": "sp|P29624.1|",
+        "length": 142,
+        "evalue": 1.94895e-33,
+        "identity_percentage": 40.41095890410959
+    },
+    {
+        "id": "sp|P83134.1|",
+        "length": 141,
+        "evalue": 3.25149e-33,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P07409.1|",
+        "length": 142,
+        "evalue": 4.33939e-33,
+        "identity_percentage": 44.89795918367347
+    },
+    {
+        "id": "sp|P11753.1|",
+        "length": 141,
+        "evalue": 5.70623e-33,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P82990.1|",
+        "length": 142,
+        "evalue": 5.8109e-33,
+        "identity_percentage": 41.0958904109589
+    },
+    {
+        "id": "sp|P10777.1|",
+        "length": 142,
+        "evalue": 8.03777e-33,
+        "identity_percentage": 39.310344827586206
+    },
+    {
+        "id": "sp|P02018.1|",
+        "length": 142,
+        "evalue": 8.03777e-33,
+        "identity_percentage": 41.0958904109589
+    },
+    {
+        "id": "sp|C0HJT8.1|",
+        "length": 135,
+        "evalue": 1.15115e-32,
+        "identity_percentage": 43.16546762589928
+    },
+    {
+        "id": "sp|P01944.1|",
+        "length": 141,
+        "evalue": 1.17764e-32,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|Q9DF25.1|",
+        "length": 141,
+        "evalue": 1.35537e-32,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P0C237.2|",
+        "length": 143,
+        "evalue": 1.84138e-32,
+        "identity_percentage": 40.54054054054054
+    },
+    {
+        "id": "sp|Q90487.3|",
+        "length": 143,
+        "evalue": 3.33669e-32,
+        "identity_percentage": 40.54054054054054
+    },
+    {
+        "id": "sp|P83124.1|",
+        "length": 141,
+        "evalue": 3.58596e-32,
+        "identity_percentage": 41.37931034482759
+    },
+    {
+        "id": "sp|P08849.1|",
+        "length": 141,
+        "evalue": 3.7444e-32,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|K7N5M5.2|",
+        "length": 142,
+        "evalue": 4.24763e-32,
+        "identity_percentage": 39.726027397260275
+    },
+    {
+        "id": "sp|P14390.1|",
+        "length": 141,
+        "evalue": 5.01323e-32,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P21379.1|",
+        "length": 141,
+        "evalue": 5.12277e-32,
+        "identity_percentage": 44.827586206896555
+    },
+    {
+        "id": "sp|P83611.1|",
+        "length": 142,
+        "evalue": 6.13363e-32,
+        "identity_percentage": 39.726027397260275
+    },
+    {
+        "id": "sp|D0VX09.1|",
+        "length": 141,
+        "evalue": 6.42787e-32,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P01971.2|",
+        "length": 142,
+        "evalue": 6.68745e-32,
+        "identity_percentage": 44.827586206896555
+    },
+    {
+        "id": "sp|P01979.1|",
+        "length": 141,
+        "evalue": 7.39739e-32,
+        "identity_percentage": 45.51724137931035
+    },
+    {
+        "id": "sp|P26915.1|",
+        "length": 141,
+        "evalue": 9.69167e-32,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P02007.3|",
+        "length": 142,
+        "evalue": 1.04148e-31,
+        "identity_percentage": 38.35616438356164
+    },
+    {
+        "id": "sp|P04240.1|",
+        "length": 141,
+        "evalue": 1.16458e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P23016.1|",
+        "length": 142,
+        "evalue": 1.30672e-31,
+        "identity_percentage": 40.41095890410959
+    },
+    {
+        "id": "sp|P69905.2|",
+        "length": 142,
+        "evalue": 1.42468e-31,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P07414.1|",
+        "length": 141,
+        "evalue": 1.54228e-31,
+        "identity_percentage": 40.0
+    },
+    {
+        "id": "sp|P84791.1|",
+        "length": 141,
+        "evalue": 1.62788e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P10892.1|",
+        "length": 141,
+        "evalue": 1.91425e-31,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P02001.1|",
+        "length": 141,
+        "evalue": 2.35035e-31,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P01945.1|",
+        "length": 141,
+        "evalue": 2.79376e-31,
+        "identity_percentage": 41.37931034482759
+    },
+    {
+        "id": "sp|P83270.2|",
+        "length": 143,
+        "evalue": 2.89522e-31,
+        "identity_percentage": 40.54054054054054
+    },
+    {
+        "id": "sp|P01943.1|",
+        "length": 141,
+        "evalue": 3.01317e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P18972.1|",
+        "length": 141,
+        "evalue": 3.04589e-31,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P06636.2|",
+        "length": 142,
+        "evalue": 3.38054e-31,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P81024.1|",
+        "length": 141,
+        "evalue": 3.5431e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|B3EWE3.1|",
+        "length": 141,
+        "evalue": 4.16618e-31,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P01923.1|",
+        "length": 141,
+        "evalue": 4.39732e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P18970.2|",
+        "length": 142,
+        "evalue": 4.52495e-31,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P14527.1|",
+        "length": 142,
+        "evalue": 4.67394e-31,
+        "identity_percentage": 40.0
+    },
+    {
+        "id": "sp|P01935.1|",
+        "length": 141,
+        "evalue": 4.74262e-31,
+        "identity_percentage": 41.37931034482759
+    },
+    {
+        "id": "sp|Q862A7.3|",
+        "length": 143,
+        "evalue": 5.07619e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P14389.1|",
+        "length": 141,
+        "evalue": 5.34081e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P10781.1|",
+        "length": 141,
+        "evalue": 5.45741e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P09908.1|",
+        "length": 141,
+        "evalue": 5.88591e-31,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P02016.3|",
+        "length": 143,
+        "evalue": 6.03338e-31,
+        "identity_percentage": 39.86486486486486
+    },
+    {
+        "id": "sp|P23601.1|",
+        "length": 141,
+        "evalue": 6.7002e-31,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P04239.1|",
+        "length": 141,
+        "evalue": 6.7002e-31,
+        "identity_percentage": 41.37931034482759
+    },
+    {
+        "id": "sp|P23600.1|",
+        "length": 141,
+        "evalue": 6.77293e-31,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P24659.1|",
+        "length": 141,
+        "evalue": 7.14864e-31,
+        "identity_percentage": 44.827586206896555
+    },
+    {
+        "id": "sp|P04243.2|",
+        "length": 142,
+        "evalue": 7.68041e-31,
+        "identity_percentage": 39.726027397260275
+    },
+    {
+        "id": "sp|P83271.2|",
+        "length": 143,
+        "evalue": 7.73388e-31,
+        "identity_percentage": 39.455782312925166
+    },
+    {
+        "id": "sp|P02019.1|",
+        "length": 144,
+        "evalue": 7.78747e-31,
+        "identity_percentage": 43.24324324324324
+    },
+    {
+        "id": "sp|Q9TS35.2|",
+        "length": 142,
+        "evalue": 7.93324e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P01953.1|",
+        "length": 141,
+        "evalue": 8.22587e-31,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P68059.1|",
+        "length": 141,
+        "evalue": 8.40543e-31,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P04442.1|",
+        "length": 141,
+        "evalue": 8.68214e-31,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P02006.1|",
+        "length": 141,
+        "evalue": 9.0653e-31,
+        "identity_percentage": 40.0
+    },
+    {
+        "id": "sp|P01964.1|",
+        "length": 141,
+        "evalue": 9.56811e-31,
+        "identity_percentage": 44.827586206896555
+    },
+    {
+        "id": "sp|P68235.2|",
+        "length": 142,
+        "evalue": 9.95197e-31,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P04238.1|",
+        "length": 141,
+        "evalue": 1.00988e-30,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P06637.2|",
+        "length": 142,
+        "evalue": 1.01692e-30,
+        "identity_percentage": 40.689655172413794
+    },
+    {
+        "id": "sp|Q9XSN3.3|",
+        "length": 142,
+        "evalue": 1.03911e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P19015.1|",
+        "length": 141,
+        "evalue": 1.08916e-30,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P67818.1|",
+        "length": 141,
+        "evalue": 1.1874e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|Q0ZA50.3|",
+        "length": 142,
+        "evalue": 1.20863e-30,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P20243.1|",
+        "length": 141,
+        "evalue": 1.2398e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P0CH25.1|",
+        "length": 142,
+        "evalue": 1.2895e-30,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P67817.2|",
+        "length": 142,
+        "evalue": 1.31764e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P01924.1|",
+        "length": 141,
+        "evalue": 1.33711e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P01977.1|",
+        "length": 141,
+        "evalue": 1.53855e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P60529.1|",
+        "length": 141,
+        "evalue": 1.60644e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P01978.1|",
+        "length": 141,
+        "evalue": 1.62387e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P29623.1|",
+        "length": 142,
+        "evalue": 1.6708e-30,
+        "identity_percentage": 39.726027397260275
+    },
+    {
+        "id": "sp|P0CH26.1|",
+        "length": 142,
+        "evalue": 1.90183e-30,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P63107.2|",
+        "length": 142,
+        "evalue": 2.02906e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P06635.2|",
+        "length": 142,
+        "evalue": 2.18828e-30,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|Q9PVM4.3|",
+        "length": 143,
+        "evalue": 2.42803e-30,
+        "identity_percentage": 39.189189189189186
+    },
+    {
+        "id": "sp|P10885.1|",
+        "length": 141,
+        "evalue": 2.50063e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P15164.1|",
+        "length": 141,
+        "evalue": 2.55519e-30,
+        "identity_percentage": 41.0958904109589
+    },
+    {
+        "id": "sp|P02002.1|",
+        "length": 141,
+        "evalue": 2.61094e-30,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P41330.2|",
+        "length": 142,
+        "evalue": 2.77466e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P01956.1|",
+        "length": 141,
+        "evalue": 2.97193e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P08257.1|",
+        "length": 141,
+        "evalue": 2.97193e-30,
+        "identity_percentage": 41.37931034482759
+    },
+    {
+        "id": "sp|P01948.2|",
+        "length": 142,
+        "evalue": 3.05765e-30,
+        "identity_percentage": 40.689655172413794
+    },
+    {
+        "id": "sp|P01934.1|",
+        "length": 141,
+        "evalue": 3.17073e-30,
+        "identity_percentage": 40.689655172413794
+    },
+    {
+        "id": "sp|P17689.1|",
+        "length": 141,
+        "evalue": 3.17073e-30,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P04242.1|",
+        "length": 141,
+        "evalue": 3.38282e-30,
+        "identity_percentage": 40.689655172413794
+    },
+    {
+        "id": "sp|P07035.1|",
+        "length": 141,
+        "evalue": 3.41952e-30,
+        "identity_percentage": 41.37931034482759
+    },
+    {
+        "id": "sp|P08422.2|",
+        "length": 142,
+        "evalue": 3.7941e-30,
+        "identity_percentage": 41.37931034482759
+    },
+    {
+        "id": "sp|P01926.2|",
+        "length": 142,
+        "evalue": 3.7941e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P01942.2|",
+        "length": 142,
+        "evalue": 3.83526e-30,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P01929.1|",
+        "length": 141,
+        "evalue": 3.85048e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P11755.1|",
+        "length": 141,
+        "evalue": 4.02031e-30,
+        "identity_percentage": 44.13793103448276
+    },
+    {
+        "id": "sp|P01928.2|",
+        "length": 142,
+        "evalue": 4.70785e-30,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P85081.1|",
+        "length": 143,
+        "evalue": 5.33706e-30,
+        "identity_percentage": 42.06896551724138
+    },
+    {
+        "id": "sp|P10778.1|",
+        "length": 141,
+        "evalue": 5.67816e-30,
+        "identity_percentage": 43.44827586206896
+    },
+    {
+        "id": "sp|P21200.1|",
+        "length": 141,
+        "evalue": 5.86495e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P60523.1|",
+        "length": 141,
+        "evalue": 5.86495e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P60530.2|",
+        "length": 142,
+        "evalue": 5.90492e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P28780.1|",
+        "length": 141,
+        "evalue": 6.19001e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P84653.2|",
+        "length": 143,
+        "evalue": 6.20709e-30,
+        "identity_percentage": 39.310344827586206
+    },
+    {
+        "id": "sp|P84205.1|",
+        "length": 142,
+        "evalue": 6.57754e-30,
+        "identity_percentage": 36.986301369863014
+    },
+    {
+        "id": "sp|P21767.1|",
+        "length": 141,
+        "evalue": 7.35623e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P82112.1|",
+        "length": 141,
+        "evalue": 7.59819e-30,
+        "identity_percentage": 39.310344827586206
+    },
+    {
+        "id": "sp|P83623.1|",
+        "length": 142,
+        "evalue": 7.90139e-30,
+        "identity_percentage": 38.35616438356164
+    },
+    {
+        "id": "sp|P01963.2|",
+        "length": 142,
+        "evalue": 7.90139e-30,
+        "identity_percentage": 42.758620689655174
+    },
+    {
+        "id": "sp|P01936.1|",
+        "length": 141,
+        "evalue": 8.01927e-30,
+        "identity_percentage": 42.758620689655174
+    }
+]
