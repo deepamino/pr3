@@ -1,0 +1,3080 @@
+[
+    {
+        "id": "pdb|5SW7|B",
+        "length": 146,
+        "evalue": 1.85431e-49,
+        "identity_percentage": 98.75
+    },
+    {
+        "id": "gb|AAF00488.1|",
+        "length": 128,
+        "evalue": 2.58822e-49,
+        "identity_percentage": 98.75
+    },
+    {
+        "id": "gb|AAA88054.1|",
+        "length": 147,
+        "evalue": 2.80802e-49,
+        "identity_percentage": 98.75
+    },
+    {
+        "id": "gb|AAR96398.1|",
+        "length": 147,
+        "evalue": 3.81655e-49,
+        "identity_percentage": 98.75
+    },
+    {
+        "id": "gb|AAL68978.1|",
+        "length": 147,
+        "evalue": 8.68237e-49,
+        "identity_percentage": 98.75
+    },
+    {
+        "id": "gb|AAA35597.1|",
+        "length": 147,
+        "evalue": 1.86981e-48,
+        "identity_percentage": 97.5
+    },
+    {
+        "id": "sp|P02032.1|",
+        "length": 146,
+        "evalue": 2.57347e-48,
+        "identity_percentage": 97.5
+    },
+    {
+        "id": "sp|P02025.1|",
+        "length": 146,
+        "evalue": 2.68879e-48,
+        "identity_percentage": 97.5
+    },
+    {
+        "id": "ref|XP_017717110.1|",
+        "length": 147,
+        "evalue": 2.89846e-48,
+        "identity_percentage": 97.5
+    },
+    {
+        "id": "sp|Q6WN22.3|",
+        "length": 147,
+        "evalue": 6.17377e-48,
+        "identity_percentage": 96.25
+    },
+    {
+        "id": "ref|XP_010361646.1|",
+        "length": 147,
+        "evalue": 3.19438e-47,
+        "identity_percentage": 96.25
+    },
+    {
+        "id": "ref|NP_001157900.1|",
+        "length": 147,
+        "evalue": 9.34825e-47,
+        "identity_percentage": 95.0
+    },
+    {
+        "id": "ref|XP_023065381.1|",
+        "length": 147,
+        "evalue": 1.90558e-46,
+        "identity_percentage": 95.0
+    },
+    {
+        "id": "gb|ACA53487.1|",
+        "length": 147,
+        "evalue": 5.8901e-46,
+        "identity_percentage": 93.75
+    },
+    {
+        "id": "sp|Q6WN20.3|",
+        "length": 147,
+        "evalue": 1.26818e-45,
+        "identity_percentage": 93.75
+    },
+    {
+        "id": "sp|P18982.1|",
+        "length": 146,
+        "evalue": 4.27796e-44,
+        "identity_percentage": 90.0
+    },
+    {
+        "id": "sp|P21201.1|",
+        "length": 146,
+        "evalue": 1.30757e-43,
+        "identity_percentage": 90.0
+    },
+    {
+        "id": "ref|XP_066106866.1|",
+        "length": 147,
+        "evalue": 1.5718e-43,
+        "identity_percentage": 90.0
+    },
+    {
+        "id": "prf||1311238B",
+        "length": 146,
+        "evalue": 2.28596e-43,
+        "identity_percentage": 88.75
+    },
+    {
+        "id": "ref|XP_032213313.1|",
+        "length": 147,
+        "evalue": 2.35718e-43,
+        "identity_percentage": 88.75
+    },
+    {
+        "id": "ref|XP_005578971.2|",
+        "length": 147,
+        "evalue": 2.56601e-42,
+        "identity_percentage": 90.0
+    },
+    {
+        "id": "ref|XP_004651012.1|",
+        "length": 147,
+        "evalue": 1.44287e-40,
+        "identity_percentage": 82.5
+    },
+    {
+        "id": "sp|Q7M3C2.1|",
+        "length": 146,
+        "evalue": 2.67058e-40,
+        "identity_percentage": 83.75
+    },
+    {
+        "id": "ref|XP_045413288.1|",
+        "length": 147,
+        "evalue": 2.78295e-40,
+        "identity_percentage": 83.75
+    },
+    {
+        "id": "ref|XP_034379285.1|",
+        "length": 147,
+        "evalue": 3.95047e-40,
+        "identity_percentage": 82.5
+    },
+    {
+        "id": "gb|AAB30299.2|",
+        "length": 146,
+        "evalue": 4.09299e-40,
+        "identity_percentage": 82.5
+    },
+    {
+        "id": "gb|AAA41309.1|",
+        "length": 147,
+        "evalue": 4.1273e-40,
+        "identity_percentage": 82.5
+    },
+    {
+        "id": "gb|WCR76151.1|",
+        "length": 147,
+        "evalue": 4.55466e-40,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "ref|NP_942071.2|",
+        "length": 147,
+        "evalue": 9.07768e-40,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "ref|XP_045340211.1|",
+        "length": 147,
+        "evalue": 1.08154e-39,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "ref|XP_007533485.1|",
+        "length": 147,
+        "evalue": 1.23336e-39,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "prf||1206295B",
+        "length": 146,
+        "evalue": 1.44148e-39,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "gb|AFX00020.1|",
+        "length": 147,
+        "evalue": 1.45345e-39,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "ref|XP_014917672.2|",
+        "length": 147,
+        "evalue": 1.63944e-39,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "gb|AGT37193.1|",
+        "length": 147,
+        "evalue": 1.73167e-39,
+        "identity_percentage": 80.0
+    },
+    {
+        "id": "sp|P68064.2|",
+        "length": 147,
+        "evalue": 2.1088e-39,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "sp|P68065.1|",
+        "length": 146,
+        "evalue": 2.1145e-39,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "gb|AJQ20765.1|",
+        "length": 147,
+        "evalue": 2.15547e-39,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "sp|P09421.1|",
+        "length": 146,
+        "evalue": 2.57503e-39,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "gb|AJQ21961.1|",
+        "length": 147,
+        "evalue": 3.48907e-39,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "ref|XP_010616265.1|",
+        "length": 147,
+        "evalue": 3.68534e-39,
+        "identity_percentage": 80.0
+    },
+    {
+        "id": "ref|XP_004407619.1|",
+        "length": 147,
+        "evalue": 4.24889e-39,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "gb|AJQ22085.1|",
+        "length": 147,
+        "evalue": 4.34293e-39,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "ref|XP_006756210.1|",
+        "length": 147,
+        "evalue": 4.89861e-39,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "emb|CAA32225.1|",
+        "length": 151,
+        "evalue": 5.22968e-39,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "gb|KAJ1075771.1|",
+        "length": 143,
+        "evalue": 5.46513e-39,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "dbj|BAA77357.1|",
+        "length": 146,
+        "evalue": 5.85235e-39,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "gb|AJQ20777.1|",
+        "length": 147,
+        "evalue": 6.80267e-39,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "ref|XP_047608363.1|",
+        "length": 147,
+        "evalue": 1.17584e-38,
+        "identity_percentage": 80.0
+    },
+    {
+        "id": "gb|AJQ20773.1|",
+        "length": 147,
+        "evalue": 1.40088e-38,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "sp|P02054.1|",
+        "length": 146,
+        "evalue": 1.46771e-38,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "ref|XP_036052691.1|",
+        "length": 147,
+        "evalue": 1.56291e-38,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "gb|AAB50159.1|",
+        "length": 152,
+        "evalue": 1.69994e-38,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "gb|AJQ20786.1|",
+        "length": 147,
+        "evalue": 2.10024e-38,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "gb|PNJ24906.1|",
+        "length": 137,
+        "evalue": 2.25584e-38,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "gb|AJQ21923.1|",
+        "length": 147,
+        "evalue": 2.26746e-38,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "gb|AET98894.1|",
+        "length": 146,
+        "evalue": 2.89302e-38,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "pdb|1JEB|B",
+        "length": 146,
+        "evalue": 2.92485e-38,
+        "identity_percentage": 78.48101265822784
+    },
+    {
+        "id": "gb|ELR47476.1|",
+        "length": 151,
+        "evalue": 4.04667e-38,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "ref|XP_038179986.1|",
+        "length": 147,
+        "evalue": 4.13955e-38,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "ref|XP_049475021.1|",
+        "length": 147,
+        "evalue": 4.98599e-38,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "sp|P51441.2|",
+        "length": 147,
+        "evalue": 5.04086e-38,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "gb|AJQ21946.1|",
+        "length": 147,
+        "evalue": 5.94013e-38,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "ref|XP_026971359.1|",
+        "length": 147,
+        "evalue": 6.20593e-38,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "ref|XP_002822172.2|",
+        "length": 147,
+        "evalue": 1.15799e-37,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "ref|XP_007103053.1|",
+        "length": 147,
+        "evalue": 1.19664e-37,
+        "identity_percentage": 75.9493670886076
+    },
+    {
+        "id": "gb|AJQ21907.1|",
+        "length": 147,
+        "evalue": 1.37957e-37,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "dbj|BAG31393.1|",
+        "length": 147,
+        "evalue": 2.66e-37,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "gb|AAT98611.1|",
+        "length": 147,
+        "evalue": 2.66e-37,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "gb|AAA36948.1|",
+        "length": 147,
+        "evalue": 4.35238e-37,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "tpe|SAI82191.1|",
+        "length": 192,
+        "evalue": 5.70585e-37,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "ref|XP_027263694.1|",
+        "length": 147,
+        "evalue": 7.68819e-37,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "ref|XP_032215342.1|",
+        "length": 147,
+        "evalue": 9.78053e-37,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "ref|XP_058990316.1|",
+        "length": 147,
+        "evalue": 1.65363e-36,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "ref|XP_020031368.1|",
+        "length": 147,
+        "evalue": 2.01356e-36,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "ref|XP_006151769.1|",
+        "length": 147,
+        "evalue": 2.01356e-36,
+        "identity_percentage": 73.75
+    },
+    {
+        "id": "ref|XP_061004819.1|",
+        "length": 147,
+        "evalue": 2.15017e-36,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "gb|ACE79125.1|",
+        "length": 301,
+        "evalue": 2.18325e-36,
+        "identity_percentage": 74.44444444444444
+    },
+    {
+        "id": "gb|ACE79125.1|",
+        "length": 301,
+        "evalue": 2.95058e-36,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "ref|XP_005370210.1|",
+        "length": 147,
+        "evalue": 3.11901e-36,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "gb|TEA40533.1|",
+        "length": 321,
+        "evalue": 3.4794e-36,
+        "identity_percentage": 76.25
+    },
+    {
+        "id": "gb|TEA40533.1|",
+        "length": 321,
+        "evalue": 8.76921e-15,
+        "identity_percentage": 69.23076923076923
+    },
+    {
+        "id": "ref|XP_065691070.1|",
+        "length": 147,
+        "evalue": 6.63499e-36,
+        "identity_percentage": 71.25
+    },
+    {
+        "id": "ref|XP_049636419.1|",
+        "length": 147,
+        "evalue": 7.48343e-36,
+        "identity_percentage": 73.75
+    },
+    {
+        "id": "sp|Q45XI5.3|",
+        "length": 147,
+        "evalue": 8.81786e-36,
+        "identity_percentage": 74.68354430379746
+    },
+    {
+        "id": "ref|XP_003781035.1|",
+        "length": 147,
+        "evalue": 9.0129e-36,
+        "identity_percentage": 73.75
+    },
+    {
+        "id": "ref|XP_040589516.1|",
+        "length": 147,
+        "evalue": 1.09743e-35,
+        "identity_percentage": 73.75
+    },
+    {
+        "id": "ref|XP_014111139.1|",
+        "length": 147,
+        "evalue": 1.4426e-35,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "ref|XP_058990333.1|",
+        "length": 147,
+        "evalue": 1.57452e-35,
+        "identity_percentage": 71.25
+    },
+    {
+        "id": "ref|XP_038626078.1|",
+        "length": 147,
+        "evalue": 1.62705e-35,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "ref|XP_049985173.1|",
+        "length": 147,
+        "evalue": 1.83509e-35,
+        "identity_percentage": 73.75
+    },
+    {
+        "id": "sp|B3EWD0.1|",
+        "length": 146,
+        "evalue": 1.84116e-35,
+        "identity_percentage": 88.75
+    },
+    {
+        "id": "ref|XP_027798269.1|",
+        "length": 147,
+        "evalue": 2.36003e-35,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "ref|XP_034615198.1|",
+        "length": 147,
+        "evalue": 2.63282e-35,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "tpe|SAI82259.1|",
+        "length": 164,
+        "evalue": 5.1519e-35,
+        "identity_percentage": 77.21518987341773
+    },
+    {
+        "id": "gb|NWU01538.1|",
+        "length": 147,
+        "evalue": 1.07938e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "ref|XP_019831418.1|",
+        "length": 147,
+        "evalue": 1.10325e-34,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "sp|Q45XI7.3|",
+        "length": 147,
+        "evalue": 1.10325e-34,
+        "identity_percentage": 72.5
+    },
+    {
+        "id": "ref|XP_045340212.1|",
+        "length": 147,
+        "evalue": 1.28579e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|KAK7807225.1|",
+        "length": 574,
+        "evalue": 1.31531e-34,
+        "identity_percentage": 77.5
+    },
+    {
+        "id": "gb|KAK7807225.1|",
+        "length": 574,
+        "evalue": 1.41775e-32,
+        "identity_percentage": 73.75
+    },
+    {
+        "id": "gb|KAK7807225.1|",
+        "length": 574,
+        "evalue": 6.64493e-29,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|NXQ08616.1|",
+        "length": 147,
+        "evalue": 1.46611e-34,
+        "identity_percentage": 71.25
+    },
+    {
+        "id": "gb|KFV49211.1|",
+        "length": 102,
+        "evalue": 1.82599e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|KAG6920727.1|",
+        "length": 147,
+        "evalue": 2.82575e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|NXO46480.1|",
+        "length": 119,
+        "evalue": 2.96282e-34,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|NXG09777.1|",
+        "length": 147,
+        "evalue": 3.96607e-34,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|NWI78482.1|",
+        "length": 147,
+        "evalue": 3.96607e-34,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|NXE14589.1|",
+        "length": 147,
+        "evalue": 4.00968e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|NXG40975.1|",
+        "length": 117,
+        "evalue": 4.05171e-34,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_027764685.1|",
+        "length": 147,
+        "evalue": 4.1434e-34,
+        "identity_percentage": 71.25
+    },
+    {
+        "id": "gb|NXO28390.1|",
+        "length": 147,
+        "evalue": 4.42437e-34,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "sp|P02115.1|",
+        "length": 146,
+        "evalue": 5.17463e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "ref|XP_009908520.1|",
+        "length": 147,
+        "evalue": 5.27031e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|KAL2806651.1|",
+        "length": 147,
+        "evalue": 5.94395e-34,
+        "identity_percentage": 87.5
+    },
+    {
+        "id": "gb|KAF1485264.1|",
+        "length": 147,
+        "evalue": 6.27798e-34,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_059675454.1|",
+        "length": 147,
+        "evalue": 6.34701e-34,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|NWS27223.1|",
+        "length": 147,
+        "evalue": 6.77739e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|NXB97859.1|",
+        "length": 147,
+        "evalue": 7.4783e-34,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|KAI2558347.1|",
+        "length": 168,
+        "evalue": 8.85838e-34,
+        "identity_percentage": 79.45205479452055
+    },
+    {
+        "id": "ref|XP_054484383.1|",
+        "length": 147,
+        "evalue": 9.20513e-34,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|NXF27515.1|",
+        "length": 147,
+        "evalue": 9.61668e-34,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_021394435.1|",
+        "length": 147,
+        "evalue": 1.02687e-33,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|AQV11902.1|",
+        "length": 147,
+        "evalue": 1.06112e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_058401766.1|",
+        "length": 147,
+        "evalue": 1.08458e-33,
+        "identity_percentage": 86.25
+    },
+    {
+        "id": "gb|NXW81445.1|",
+        "length": 147,
+        "evalue": 1.13307e-33,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|NXB03632.1|",
+        "length": 146,
+        "evalue": 1.28251e-33,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|AJA37784.1|",
+        "length": 147,
+        "evalue": 1.29193e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|NXL89961.1|",
+        "length": 147,
+        "evalue": 1.29193e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "ref|XP_007103054.1|",
+        "length": 147,
+        "evalue": 1.32049e-33,
+        "identity_percentage": 85.0
+    },
+    {
+        "id": "gb|AVA16297.1|",
+        "length": 147,
+        "evalue": 1.32049e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|NXR93455.1|",
+        "length": 147,
+        "evalue": 1.45705e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_009889138.1|",
+        "length": 147,
+        "evalue": 1.60772e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_054254932.1|",
+        "length": 147,
+        "evalue": 1.66133e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "sp|P02121.1|",
+        "length": 146,
+        "evalue": 1.68572e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|APA23728.1|",
+        "length": 147,
+        "evalue": 1.77397e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|AIL33791.1|",
+        "length": 147,
+        "evalue": 1.83312e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_005497062.1|",
+        "length": 147,
+        "evalue": 1.89425e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|ALG03108.1|",
+        "length": 147,
+        "evalue": 1.97893e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_042746777.1|",
+        "length": 147,
+        "evalue": 2.02268e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "ref|NP_742090.1|",
+        "length": 147,
+        "evalue": 2.23184e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|NXJ12317.1|",
+        "length": 147,
+        "evalue": 2.28118e-33,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_003203322.2|",
+        "length": 147,
+        "evalue": 2.33161e-33,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXP45814.1|",
+        "length": 147,
+        "evalue": 2.38316e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_029821619.1|",
+        "length": 147,
+        "evalue": 2.40936e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "ref|XP_045695432.1|",
+        "length": 147,
+        "evalue": 2.54474e-33,
+        "identity_percentage": 86.25
+    },
+    {
+        "id": "gb|NXA09151.1|",
+        "length": 147,
+        "evalue": 2.57271e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "gb|AAC39570.1|",
+        "length": 125,
+        "evalue": 2.65669e-33,
+        "identity_percentage": 78.87323943661971
+    },
+    {
+        "id": "gb|NXH96592.1|",
+        "length": 147,
+        "evalue": 2.65849e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|NXC27077.1|",
+        "length": 147,
+        "evalue": 2.65849e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "ref|XP_064503308.1|",
+        "length": 147,
+        "evalue": 2.74714e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "gb|APA23741.1|",
+        "length": 147,
+        "evalue": 2.86994e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|AQV11901.1|",
+        "length": 147,
+        "evalue": 2.86994e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "sp|Q6H1U7.3|",
+        "length": 147,
+        "evalue": 3.20151e-33,
+        "identity_percentage": 72.5
+    },
+    {
+        "id": "gb|NXN45684.1|",
+        "length": 147,
+        "evalue": 3.23671e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|NXB35840.1|",
+        "length": 147,
+        "evalue": 3.65034e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_042694305.1|",
+        "length": 117,
+        "evalue": 3.78745e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "gb|NXC61387.1|",
+        "length": 147,
+        "evalue": 3.89782e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_003465323.1|",
+        "length": 147,
+        "evalue": 4.11682e-33,
+        "identity_percentage": 71.25
+    },
+    {
+        "id": "gb|KAF1502265.1|",
+        "length": 147,
+        "evalue": 4.30085e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "gb|QQL88594.1|",
+        "length": 146,
+        "evalue": 4.55941e-33,
+        "identity_percentage": 71.25
+    },
+    {
+        "id": "gb|ACE80932.1|",
+        "length": 139,
+        "evalue": 4.56144e-33,
+        "identity_percentage": 98.18181818181819
+    },
+    {
+        "id": "gb|ACE80932.1|",
+        "length": 139,
+        "evalue": 4.56144e-33,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "gb|NXG23809.1|",
+        "length": 147,
+        "evalue": 4.79771e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "ref|XP_009465797.1|",
+        "length": 147,
+        "evalue": 4.95767e-33,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "gb|APA23549.1|",
+        "length": 147,
+        "evalue": 4.95767e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_059958962.1|",
+        "length": 147,
+        "evalue": 5.12297e-33,
+        "identity_percentage": 86.25
+    },
+    {
+        "id": "ref|XP_014460905.1|",
+        "length": 147,
+        "evalue": 6.03588e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|KFZ62810.1|",
+        "length": 147,
+        "evalue": 6.03588e-33,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "gb|ACT81594.1|",
+        "length": 147,
+        "evalue": 6.23712e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_064261018.1|",
+        "length": 205,
+        "evalue": 6.48943e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_065535081.1|",
+        "length": 147,
+        "evalue": 8.37864e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_030333180.1|",
+        "length": 147,
+        "evalue": 8.37864e-33,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_051048472.1|",
+        "length": 147,
+        "evalue": 9.34653e-33,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|KAL1774097.1|",
+        "length": 147,
+        "evalue": 9.65813e-33,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|APA23690.1|",
+        "length": 147,
+        "evalue": 1.00898e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_042649422.1|",
+        "length": 147,
+        "evalue": 1.1133e-32,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "ref|XP_040820112.1|",
+        "length": 147,
+        "evalue": 1.40058e-32,
+        "identity_percentage": 82.5
+    },
+    {
+        "id": "gb|APA23441.1|",
+        "length": 147,
+        "evalue": 1.46318e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|NP_001157490.1|",
+        "length": 147,
+        "evalue": 1.51196e-32,
+        "identity_percentage": 83.75
+    },
+    {
+        "id": "ref|XP_010126396.1|",
+        "length": 147,
+        "evalue": 1.54538e-32,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "ref|XP_008050890.1|",
+        "length": 146,
+        "evalue": 1.69307e-32,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "gb|NXW20635.1|",
+        "length": 147,
+        "evalue": 1.70515e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NWV97734.1|",
+        "length": 147,
+        "evalue": 1.70515e-32,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "ref|XP_010130815.1|",
+        "length": 147,
+        "evalue": 1.70515e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_010306529.1|",
+        "length": 147,
+        "evalue": 1.82073e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|APA23637.1|",
+        "length": 147,
+        "evalue": 1.88143e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_040438550.1|",
+        "length": 147,
+        "evalue": 2.05337e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXL14932.1|",
+        "length": 147,
+        "evalue": 2.16871e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|NXS88062.1|",
+        "length": 120,
+        "evalue": 2.33623e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXI80401.1|",
+        "length": 147,
+        "evalue": 2.55511e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|AGZ15507.1|",
+        "length": 147,
+        "evalue": 2.66931e-32,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "ref|XP_021239664.1|",
+        "length": 147,
+        "evalue": 2.66931e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXK82569.1|",
+        "length": 147,
+        "evalue": 2.7283e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_048349274.1|",
+        "length": 147,
+        "evalue": 2.81925e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|NWW57191.1|",
+        "length": 147,
+        "evalue": 3.01035e-32,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|KAF3830071.1|",
+        "length": 307,
+        "evalue": 3.0116e-32,
+        "identity_percentage": 71.25
+    },
+    {
+        "id": "gb|KAF3830071.1|",
+        "length": 307,
+        "evalue": 4.94237e-20,
+        "identity_percentage": 61.33333333333333
+    },
+    {
+        "id": "gb|NXK41477.1|",
+        "length": 147,
+        "evalue": 3.07688e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_010209555.1|",
+        "length": 123,
+        "evalue": 3.21204e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXL98237.1|",
+        "length": 147,
+        "evalue": 3.35805e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|KAK4829198.1|",
+        "length": 147,
+        "evalue": 3.50812e-32,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "gb|AIL33705.1|",
+        "length": 131,
+        "evalue": 3.72216e-32,
+        "identity_percentage": 68.83116883116884
+    },
+    {
+        "id": "ref|XP_005031223.5|",
+        "length": 147,
+        "evalue": 3.91331e-32,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "ref|XP_065691097.1|",
+        "length": 147,
+        "evalue": 4.5108e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|AFX00017.1|",
+        "length": 147,
+        "evalue": 4.5108e-32,
+        "identity_percentage": 82.5
+    },
+    {
+        "id": "gb|NXS99113.1|",
+        "length": 147,
+        "evalue": 4.61049e-32,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "gb|NXR12289.1|",
+        "length": 117,
+        "evalue": 4.86273e-32,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "gb|AQV11903.1|",
+        "length": 147,
+        "evalue": 5.43186e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|AEQ30225.1|",
+        "length": 147,
+        "evalue": 6.05921e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_037985209.1|",
+        "length": 236,
+        "evalue": 6.09596e-32,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "ref|XP_062423510.1|",
+        "length": 190,
+        "evalue": 6.29639e-32,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "gb|NXG86265.1|",
+        "length": 147,
+        "evalue": 6.98429e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXX79342.1|",
+        "length": 147,
+        "evalue": 7.21709e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXE57392.1|",
+        "length": 147,
+        "evalue": 7.79091e-32,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "ref|XP_042746782.1|",
+        "length": 147,
+        "evalue": 7.96308e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|KAF1410900.1|",
+        "length": 147,
+        "evalue": 8.13906e-32,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|NWV76045.1|",
+        "length": 147,
+        "evalue": 8.41034e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NWU53922.1|",
+        "length": 147,
+        "evalue": 8.50276e-32,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "ref|XP_015266989.1|",
+        "length": 147,
+        "evalue": 9.38163e-32,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_048285407.1|",
+        "length": 147,
+        "evalue": 9.80086e-32,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_057268686.1|",
+        "length": 184,
+        "evalue": 1.00549e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXD71823.1|",
+        "length": 147,
+        "evalue": 1.01275e-31,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "ref|XP_010831487.1|",
+        "length": 147,
+        "evalue": 1.02388e-31,
+        "identity_percentage": 68.75
+    },
+    {
+        "id": "ref|XP_048806984.1|",
+        "length": 147,
+        "evalue": 1.05801e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_062423528.1|",
+        "length": 159,
+        "evalue": 1.14722e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|AGT37203.1|",
+        "length": 147,
+        "evalue": 1.19316e-31,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "gb|NXY82179.1|",
+        "length": 147,
+        "evalue": 1.30217e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_013795840.1|",
+        "length": 147,
+        "evalue": 1.36036e-31,
+        "identity_percentage": 61.25000000000001
+    },
+    {
+        "id": "gb|NWS46756.1|",
+        "length": 147,
+        "evalue": 1.39042e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|APA23487.1|",
+        "length": 147,
+        "evalue": 1.43676e-31,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|APA23494.1|",
+        "length": 147,
+        "evalue": 1.46851e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|KAF1627538.1|",
+        "length": 147,
+        "evalue": 1.58526e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXP02964.1|",
+        "length": 147,
+        "evalue": 1.62029e-31,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "ref|XP_053924262.1|",
+        "length": 253,
+        "evalue": 1.63122e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_054669917.1|",
+        "length": 147,
+        "evalue": 1.71129e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|KAG8137182.1|",
+        "length": 177,
+        "evalue": 1.79799e-31,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|NWH48260.1|",
+        "length": 147,
+        "evalue": 1.8074e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_043338931.1|",
+        "length": 147,
+        "evalue": 1.88816e-31,
+        "identity_percentage": 70.0
+    },
+    {
+        "id": "gb|NXV23728.1|",
+        "length": 147,
+        "evalue": 1.9942e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXF58710.1|",
+        "length": 147,
+        "evalue": 1.9942e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_061207862.1|",
+        "length": 193,
+        "evalue": 2.07115e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_040835421.1|",
+        "length": 137,
+        "evalue": 2.0965e-31,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "ref|XP_068858827.1|",
+        "length": 147,
+        "evalue": 2.24893e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "ref|XP_010115406.1|",
+        "length": 147,
+        "evalue": 2.24893e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "ref|XP_009465796.1|",
+        "length": 147,
+        "evalue": 2.7983e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|NXS66927.1|",
+        "length": 147,
+        "evalue": 2.95545e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|NXW81440.1|",
+        "length": 147,
+        "evalue": 3.63741e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|KFO13206.1|",
+        "length": 103,
+        "evalue": 4.00572e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|QLJ83465.1|",
+        "length": 142,
+        "evalue": 4.23158e-31,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "gb|NXX13872.1|",
+        "length": 147,
+        "evalue": 4.47672e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|KFV58219.1|",
+        "length": 130,
+        "evalue": 5.05192e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|AJA37788.1|",
+        "length": 147,
+        "evalue": 5.6314e-31,
+        "identity_percentage": 66.25
+    },
+    {
+        "id": "gb|KFV97253.1|",
+        "length": 93,
+        "evalue": 6.73428e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXG74907.1|",
+        "length": 147,
+        "evalue": 7.08386e-31,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "gb|NWU01532.1|",
+        "length": 146,
+        "evalue": 7.43104e-31,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|KAK1336028.1|",
+        "length": 147,
+        "evalue": 8.07632e-31,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "gb|NWW41540.1|",
+        "length": 147,
+        "evalue": 8.71826e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|KAK2517588.1|",
+        "length": 147,
+        "evalue": 9.30896e-31,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "ref|XP_053241006.1|",
+        "length": 147,
+        "evalue": 1.00489e-30,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_010145001.1|",
+        "length": 116,
+        "evalue": 1.30454e-30,
+        "identity_percentage": 66.66666666666666
+    },
+    {
+        "id": "gb|NWR43280.1|",
+        "length": 147,
+        "evalue": 1.37951e-30,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "gb|NXQ34855.1|",
+        "length": 147,
+        "evalue": 1.53877e-30,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "sp|P21380.1|",
+        "length": 145,
+        "evalue": 1.55172e-30,
+        "identity_percentage": 81.25
+    },
+    {
+        "id": "gb|KAB0350049.1|",
+        "length": 145,
+        "evalue": 1.63886e-30,
+        "identity_percentage": 80.0
+    },
+    {
+        "id": "sp|P02086.1|",
+        "length": 146,
+        "evalue": 1.66808e-30,
+        "identity_percentage": 82.5
+    },
+    {
+        "id": "ref|XP_058925545.1|",
+        "length": 147,
+        "evalue": 2.51586e-30,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "dbj|BAJ05116.1|",
+        "length": 145,
+        "evalue": 2.79945e-30,
+        "identity_percentage": 80.0
+    },
+    {
+        "id": "dbj|BAJ46574.1|",
+        "length": 147,
+        "evalue": 3.98065e-30,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_032075322.1|",
+        "length": 147,
+        "evalue": 7.33883e-30,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NXU16702.1|",
+        "length": 147,
+        "evalue": 9.43487e-30,
+        "identity_percentage": 61.25000000000001
+    },
+    {
+        "id": "gb|NXB03615.1|",
+        "length": 148,
+        "evalue": 1.02511e-29,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|NWI62373.1|",
+        "length": 147,
+        "evalue": 1.30932e-29,
+        "identity_percentage": 61.25000000000001
+    },
+    {
+        "id": "ref|XP_034970899.1|",
+        "length": 147,
+        "evalue": 1.49269e-29,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "ref|XP_002707739.2|",
+        "length": 147,
+        "evalue": 1.73932e-29,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "ref|XP_008158685.2|",
+        "length": 147,
+        "evalue": 2.16394e-29,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "ref|XP_031465472.1|",
+        "length": 147,
+        "evalue": 2.49407e-29,
+        "identity_percentage": 61.25000000000001
+    },
+    {
+        "id": "ref|XP_019831432.1|",
+        "length": 125,
+        "evalue": 3.11737e-29,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|QLJ83459.1|",
+        "length": 145,
+        "evalue": 3.1999e-29,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "gb|NXP02962.1|",
+        "length": 149,
+        "evalue": 4.22044e-29,
+        "identity_percentage": 63.41463414634146
+    },
+    {
+        "id": "sp|P16418.1|",
+        "length": 146,
+        "evalue": 6.40874e-29,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "gb|NWY97471.1|",
+        "length": 147,
+        "evalue": 7.27291e-29,
+        "identity_percentage": 60.0
+    },
+    {
+        "id": "gb|ASH97666.1|",
+        "length": 145,
+        "evalue": 9.13109e-29,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "ref|XP_034260825.1|",
+        "length": 147,
+        "evalue": 1.35525e-28,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_024831416.1|",
+        "length": 145,
+        "evalue": 2.28525e-28,
+        "identity_percentage": 75.0
+    },
+    {
+        "id": "ref|XP_058041302.1|",
+        "length": 147,
+        "evalue": 2.31406e-28,
+        "identity_percentage": 65.0
+    },
+    {
+        "id": "ref|XP_044274471.1|",
+        "length": 147,
+        "evalue": 3.54239e-28,
+        "identity_percentage": 62.5
+    },
+    {
+        "id": "gb|AAK20080.1|",
+        "length": 111,
+        "evalue": 3.62127e-28,
+        "identity_percentage": 98.07692307692307
+    },
+    {
+        "id": "sp|P10060.1|",
+        "length": 146,
+        "evalue": 3.84182e-28,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "gb|AYV92130.1|",
+        "length": 74,
+        "evalue": 7.43955e-28,
+        "identity_percentage": 100.0
+    },
+    {
+        "id": "ref|XP_043338929.1|",
+        "length": 145,
+        "evalue": 8.56533e-28,
+        "identity_percentage": 78.75
+    },
+    {
+        "id": "gb|NXB97860.1|",
+        "length": 147,
+        "evalue": 1.16431e-27,
+        "identity_percentage": 60.0
+    },
+    {
+        "id": "ref|XP_067607774.1|",
+        "length": 147,
+        "evalue": 1.27056e-27,
+        "identity_percentage": 61.25000000000001
+    },
+    {
+        "id": "ref|XP_028905278.1|",
+        "length": 147,
+        "evalue": 1.3865e-27,
+        "identity_percentage": 60.0
+    },
+    {
+        "id": "ref|XP_030687066.1|",
+        "length": 147,
+        "evalue": 1.40171e-27,
+        "identity_percentage": 61.25000000000001
+    },
+    {
+        "id": "ref|XP_058434478.1|",
+        "length": 139,
+        "evalue": 1.87165e-27,
+        "identity_percentage": 72.85714285714285
+    },
+    {
+        "id": "ref|XP_024589384.1|",
+        "length": 147,
+        "evalue": 2.00951e-27,
+        "identity_percentage": 61.25000000000001
+    },
+    {
+        "id": "gb|NXN45683.1|",
+        "length": 150,
+        "evalue": 3.27041e-27,
+        "identity_percentage": 56.62650602409639
+    },
+    {
+        "id": "ref|XP_048723204.1|",
+        "length": 147,
+        "evalue": 3.70281e-27,
+        "identity_percentage": 58.75
+    },
+    {
+        "id": "gb|ACT81657.1|",
+        "length": 147,
+        "evalue": 3.86803e-27,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|ACZ54505.1|",
+        "length": 105,
+        "evalue": 1.4392e-26,
+        "identity_percentage": 96.07843137254902
+    },
+    {
+        "id": "gb|MBN3276843.1|",
+        "length": 223,
+        "evalue": 1.54247e-26,
+        "identity_percentage": 57.49999999999999
+    },
+    {
+        "id": "gb|MBN3276843.1|",
+        "length": 223,
+        "evalue": 5.64091e-14,
+        "identity_percentage": 58.92857142857143
+    },
+    {
+        "id": "gb|AUW34708.1|",
+        "length": 119,
+        "evalue": 5.68438e-26,
+        "identity_percentage": 76.92307692307693
+    },
+    {
+        "id": "gb|PIO14632.1|",
+        "length": 147,
+        "evalue": 9.24178e-25,
+        "identity_percentage": 59.49367088607595
+    },
+    {
+        "id": "ref|XP_001364865.1|",
+        "length": 147,
+        "evalue": 2.04835e-24,
+        "identity_percentage": 56.25
+    },
+    {
+        "id": "ref|XP_065108158.1|",
+        "length": 147,
+        "evalue": 3.06603e-24,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "gb|KTG39804.1|",
+        "length": 170,
+        "evalue": 3.23022e-24,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "gb|NXS49830.1|",
+        "length": 147,
+        "evalue": 3.23778e-24,
+        "identity_percentage": 63.74999999999999
+    },
+    {
+        "id": "ref|XP_053468645.1|",
+        "length": 147,
+        "evalue": 3.45662e-24,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "dbj|BBN21249.1|",
+        "length": 147,
+        "evalue": 4.53942e-24,
+        "identity_percentage": 67.5
+    },
+    {
+        "id": "gb|AAA49526.1|",
+        "length": 147,
+        "evalue": 5.34572e-24,
+        "identity_percentage": 56.9620253164557
+    },
+    {
+        "id": "ref|XP_048101195.1|",
+        "length": 147,
+        "evalue": 8.17733e-24,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|XP_069507882.1|",
+        "length": 147,
+        "evalue": 1.12169e-23,
+        "identity_percentage": 56.9620253164557
+    },
+    {
+        "id": "gb|MCJ8746502.1|",
+        "length": 147,
+        "evalue": 3.8847e-23,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|WP_232819422.1|",
+        "length": 161,
+        "evalue": 4.97851e-23,
+        "identity_percentage": 56.9620253164557
+    },
+    {
+        "id": "ref|XP_055749973.1|",
+        "length": 147,
+        "evalue": 1.16735e-22,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "gb|KAK9978052.1|",
+        "length": 147,
+        "evalue": 1.23269e-22,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|XP_048870853.1|",
+        "length": 147,
+        "evalue": 1.37455e-22,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "ref|XP_048047711.1|",
+        "length": 147,
+        "evalue": 1.4202e-22,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "ref|XP_014048454.1|",
+        "length": 147,
+        "evalue": 1.67226e-22,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "sp|P83114.1|",
+        "length": 145,
+        "evalue": 2.58935e-22,
+        "identity_percentage": 61.8421052631579
+    },
+    {
+        "id": "tpg|DBA20206.1|",
+        "length": 142,
+        "evalue": 2.97326e-22,
+        "identity_percentage": 60.0
+    },
+    {
+        "id": "ref|XP_048870836.1|",
+        "length": 147,
+        "evalue": 3.24955e-22,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "dbj|BAB79239.1|",
+        "length": 147,
+        "evalue": 4.0845e-22,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "emb|CAH2285615.1|",
+        "length": 148,
+        "evalue": 4.14792e-22,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "ref|XP_044160312.1|",
+        "length": 147,
+        "evalue": 4.40802e-22,
+        "identity_percentage": 56.9620253164557
+    },
+    {
+        "id": "sp|P84204.1|",
+        "length": 146,
+        "evalue": 4.43602e-22,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "gb|ACN09863.1|",
+        "length": 147,
+        "evalue": 4.55439e-22,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_052408442.1|",
+        "length": 147,
+        "evalue": 4.80923e-22,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "ref|XP_026110024.1|",
+        "length": 147,
+        "evalue": 6.74015e-22,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "ref|XP_065115825.1|",
+        "length": 147,
+        "evalue": 8.0228e-22,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "sp|P02134.1|",
+        "length": 140,
+        "evalue": 8.9497e-22,
+        "identity_percentage": 61.33333333333333
+    },
+    {
+        "id": "ref|XP_028840889.1|",
+        "length": 147,
+        "evalue": 1.08822e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "gb|RVE69713.1|",
+        "length": 147,
+        "evalue": 1.08822e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|XP_069841465.1|",
+        "length": 147,
+        "evalue": 1.33829e-21,
+        "identity_percentage": 58.22784810126582
+    },
+    {
+        "id": "ref|XP_066432217.1|",
+        "length": 147,
+        "evalue": 1.36774e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|XP_053550414.1|",
+        "length": 147,
+        "evalue": 1.42862e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|XP_030646847.1|",
+        "length": 147,
+        "evalue": 1.71904e-21,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_016425820.1|",
+        "length": 147,
+        "evalue": 1.73786e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "gb|KTG45136.1|",
+        "length": 147,
+        "evalue": 1.8152e-21,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "ref|XP_029812578.1|",
+        "length": 112,
+        "evalue": 1.84933e-21,
+        "identity_percentage": 77.19298245614034
+    },
+    {
+        "id": "ref|XP_053550408.1|",
+        "length": 147,
+        "evalue": 2.11401e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "gb|KAA0701540.1|",
+        "length": 150,
+        "evalue": 2.23629e-21,
+        "identity_percentage": 51.80722891566265
+    },
+    {
+        "id": "gb|KAL0197105.1|",
+        "length": 147,
+        "evalue": 2.48895e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|XP_016401552.1|",
+        "length": 147,
+        "evalue": 2.74511e-21,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_029102823.1|",
+        "length": 147,
+        "evalue": 2.80552e-21,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "gb|QWA14179.1|",
+        "length": 103,
+        "evalue": 3.27665e-21,
+        "identity_percentage": 82.35294117647058
+    },
+    {
+        "id": "ref|XP_053350303.1|",
+        "length": 147,
+        "evalue": 3.30306e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|XP_041825043.1|",
+        "length": 147,
+        "evalue": 4.43133e-21,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "emb|CAK8609640.1|",
+        "length": 147,
+        "evalue": 4.47982e-21,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "ref|XP_026110015.1|",
+        "length": 147,
+        "evalue": 4.52884e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|NP_001154027.1|",
+        "length": 147,
+        "evalue": 5.94488e-21,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "ref|XP_017574525.1|",
+        "length": 147,
+        "evalue": 5.94488e-21,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "ref|XP_051743648.1|",
+        "length": 147,
+        "evalue": 6.48561e-21,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "ref|XP_057201770.1|",
+        "length": 147,
+        "evalue": 1.08157e-20,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "ref|XP_068434664.1|",
+        "length": 147,
+        "evalue": 1.08157e-20,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "gb|XCJ77415.1|",
+        "length": 76,
+        "evalue": 1.09672e-20,
+        "identity_percentage": 60.60606060606061
+    },
+    {
+        "id": "ref|XP_006798207.1|",
+        "length": 147,
+        "evalue": 1.41966e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_044785373.1|",
+        "length": 126,
+        "evalue": 1.60502e-20,
+        "identity_percentage": 76.92307692307693
+    },
+    {
+        "id": "gb|KAG7491834.1|",
+        "length": 147,
+        "evalue": 1.61765e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|NP_001081497.1|",
+        "length": 147,
+        "evalue": 1.78405e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_031597147.1|",
+        "length": 147,
+        "evalue": 2.07754e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_018954284.2|",
+        "length": 148,
+        "evalue": 2.10858e-20,
+        "identity_percentage": 51.24999999999999
+    },
+    {
+        "id": "sp|P83273.1|",
+        "length": 146,
+        "evalue": 2.16129e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_030708186.1|",
+        "length": 156,
+        "evalue": 2.21964e-20,
+        "identity_percentage": 78.84615384615384
+    },
+    {
+        "id": "ref|NP_001004899.1|",
+        "length": 147,
+        "evalue": 2.44577e-20,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "gb|KAG8558513.1|",
+        "length": 147,
+        "evalue": 2.58248e-20,
+        "identity_percentage": 55.69620253164557
+    },
+    {
+        "id": "gb|ROL51710.1|",
+        "length": 189,
+        "evalue": 3.12023e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_026109989.1|",
+        "length": 147,
+        "evalue": 3.57896e-20,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "ref|XP_041718654.1|",
+        "length": 147,
+        "evalue": 3.86209e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_063306384.1|",
+        "length": 148,
+        "evalue": 6.89909e-20,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "ref|XP_036378704.1|",
+        "length": 147,
+        "evalue": 6.94832e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "gb|TRY89238.1|",
+        "length": 149,
+        "evalue": 7.07694e-20,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "ref|XP_019938475.1|",
+        "length": 147,
+        "evalue": 8.54303e-20,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "sp|P84610.2|",
+        "length": 147,
+        "evalue": 8.63643e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_042591267.1|",
+        "length": 153,
+        "evalue": 8.72905e-20,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "gb|QBK14986.1|",
+        "length": 147,
+        "evalue": 8.73086e-20,
+        "identity_percentage": 60.0
+    },
+    {
+        "id": "emb|CAB1341798.1|",
+        "length": 406,
+        "evalue": 1.01732e-19,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "emb|CAB1341798.1|",
+        "length": 406,
+        "evalue": 1.84781e-13,
+        "identity_percentage": 46.25
+    },
+    {
+        "id": "emb|CAB1341798.1|",
+        "length": 406,
+        "evalue": 5.07356e-09,
+        "identity_percentage": 40.25974025974026
+    },
+    {
+        "id": "ref|XP_063760965.1|",
+        "length": 147,
+        "evalue": 1.039e-19,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "ref|XP_036422755.1|",
+        "length": 147,
+        "evalue": 1.06184e-19,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "gb|KAK2833255.1|",
+        "length": 148,
+        "evalue": 1.25455e-19,
+        "identity_percentage": 50.0
+    },
+    {
+        "id": "ref|XP_051959166.1|",
+        "length": 147,
+        "evalue": 1.30552e-19,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "gb|KAI1896022.1|",
+        "length": 147,
+        "evalue": 1.47137e-19,
+        "identity_percentage": 49.36708860759494
+    },
+    {
+        "id": "ref|XP_029015896.1|",
+        "length": 147,
+        "evalue": 1.52016e-19,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "gb|NXC22215.1|",
+        "length": 105,
+        "evalue": 1.75549e-19,
+        "identity_percentage": 74.50980392156863
+    },
+    {
+        "id": "ref|XP_050834104.1|",
+        "length": 163,
+        "evalue": 1.80277e-19,
+        "identity_percentage": 72.54901960784314
+    },
+    {
+        "id": "gb|XCJ77431.1|",
+        "length": 71,
+        "evalue": 2.15845e-19,
+        "identity_percentage": 62.295081967213115
+    },
+    {
+        "id": "ref|XP_047427089.1|",
+        "length": 148,
+        "evalue": 2.1604e-19,
+        "identity_percentage": 47.5
+    },
+    {
+        "id": "emb|CAK8609659.1|",
+        "length": 119,
+        "evalue": 2.27139e-19,
+        "identity_percentage": 54.43037974683544
+    },
+    {
+        "id": "gb|ABB29963.1|",
+        "length": 70,
+        "evalue": 2.53291e-19,
+        "identity_percentage": 62.295081967213115
+    },
+    {
+        "id": "sp|Q9PVM1.3|",
+        "length": 148,
+        "evalue": 2.62725e-19,
+        "identity_percentage": 48.75
+    },
+    {
+        "id": "ref|XP_051959165.1|",
+        "length": 147,
+        "evalue": 2.67548e-19,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_037546655.1|",
+        "length": 147,
+        "evalue": 2.98271e-19,
+        "identity_percentage": 49.36708860759494
+    },
+    {
+        "id": "ref|XP_047232277.1|",
+        "length": 147,
+        "evalue": 3.01531e-19,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_036409331.1|",
+        "length": 148,
+        "evalue": 3.16042e-19,
+        "identity_percentage": 49.382716049382715
+    },
+    {
+        "id": "gb|KAI5622665.1|",
+        "length": 155,
+        "evalue": 3.30501e-19,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "ref|XP_028310258.1|",
+        "length": 147,
+        "evalue": 3.39829e-19,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_006800964.1|",
+        "length": 147,
+        "evalue": 3.47297e-19,
+        "identity_percentage": 49.36708860759494
+    },
+    {
+        "id": "gb|ACT81600.1|",
+        "length": 105,
+        "evalue": 3.8149e-19,
+        "identity_percentage": 72.54901960784314
+    },
+    {
+        "id": "ref|XP_068102922.1|",
+        "length": 147,
+        "evalue": 4.08798e-19,
+        "identity_percentage": 56.57894736842105
+    },
+    {
+        "id": "ref|XP_053328106.1|",
+        "length": 147,
+        "evalue": 5.72577e-19,
+        "identity_percentage": 50.649350649350644
+    },
+    {
+        "id": "ref|XP_020349078.1|",
+        "length": 147,
+        "evalue": 6.66669e-19,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "ref|XP_026067656.1|",
+        "length": 148,
+        "evalue": 8.96995e-19,
+        "identity_percentage": 48.75
+    },
+    {
+        "id": "ref|XP_028454730.1|",
+        "length": 147,
+        "evalue": 9.7519e-19,
+        "identity_percentage": 49.36708860759494
+    },
+    {
+        "id": "ref|XP_018543301.1|",
+        "length": 147,
+        "evalue": 1.23853e-18,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_019213317.1|",
+        "length": 147,
+        "evalue": 1.23853e-18,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_062311373.1|",
+        "length": 147,
+        "evalue": 1.38068e-18,
+        "identity_percentage": 53.16455696202531
+    },
+    {
+        "id": "ref|XP_006798208.1|",
+        "length": 148,
+        "evalue": 1.51097e-18,
+        "identity_percentage": 47.5
+    },
+    {
+        "id": "ref|NP_001265828.1|",
+        "length": 147,
+        "evalue": 1.5225e-18,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "ref|XP_028844221.1|",
+        "length": 147,
+        "evalue": 1.59013e-18,
+        "identity_percentage": 49.36708860759494
+    },
+    {
+        "id": "ref|XP_061561919.1|",
+        "length": 147,
+        "evalue": 1.6075e-18,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_045924144.1|",
+        "length": 147,
+        "evalue": 1.83134e-18,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_067334500.1|",
+        "length": 147,
+        "evalue": 1.85134e-18,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "ref|XP_068584016.1|",
+        "length": 147,
+        "evalue": 1.87157e-18,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|WP_219337324.1|",
+        "length": 143,
+        "evalue": 1.94966e-18,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_023269756.1|",
+        "length": 147,
+        "evalue": 2.2028e-18,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "gb|KAI5607038.1|",
+        "length": 364,
+        "evalue": 2.41288e-18,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "gb|KAI5607038.1|",
+        "length": 364,
+        "evalue": 1.45508e-11,
+        "identity_percentage": 55.769230769230774
+    },
+    {
+        "id": "gb|KAF7225642.1|",
+        "length": 147,
+        "evalue": 2.45557e-18,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_067334565.1|",
+        "length": 147,
+        "evalue": 3.18693e-18,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "gb|MCI4374590.1|",
+        "length": 147,
+        "evalue": 3.22173e-18,
+        "identity_percentage": 49.36708860759494
+    },
+    {
+        "id": "ref|XP_026229193.1|",
+        "length": 147,
+        "evalue": 3.32844e-18,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_051245314.1|",
+        "length": 147,
+        "evalue": 3.5142e-18,
+        "identity_percentage": 41.77215189873418
+    },
+    {
+        "id": "gb|ATU75098.1|",
+        "length": 104,
+        "evalue": 3.56738e-18,
+        "identity_percentage": 68.62745098039215
+    },
+    {
+        "id": "sp|P23017.2|",
+        "length": 147,
+        "evalue": 3.79181e-18,
+        "identity_percentage": 50.63291139240506
+    },
+    {
+        "id": "ref|XP_060753125.1|",
+        "length": 147,
+        "evalue": 4.46271e-18,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_042248689.1|",
+        "length": 147,
+        "evalue": 4.81522e-18,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_063300822.1|",
+        "length": 142,
+        "evalue": 4.94842e-18,
+        "identity_percentage": 50.649350649350644
+    },
+    {
+        "id": "gb|KAF6727783.1|",
+        "length": 147,
+        "evalue": 5.13943e-18,
+        "identity_percentage": 49.36708860759494
+    },
+    {
+        "id": "ref|XP_063328200.1|",
+        "length": 147,
+        "evalue": 5.36761e-18,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_053718098.1|",
+        "length": 147,
+        "evalue": 5.66713e-18,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_030264569.1|",
+        "length": 147,
+        "evalue": 6.18149e-18,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_063300820.1|",
+        "length": 142,
+        "evalue": 7.00676e-18,
+        "identity_percentage": 49.35064935064935
+    },
+    {
+        "id": "emb|CAG5897949.1|",
+        "length": 530,
+        "evalue": 8.29632e-18,
+        "identity_percentage": 51.89873417721519
+    },
+    {
+        "id": "emb|CAG5897949.1|",
+        "length": 530,
+        "evalue": 7.18963e-13,
+        "identity_percentage": 43.42105263157895
+    },
+    {
+        "id": "emb|CAG5897949.1|",
+        "length": 530,
+        "evalue": 7.84917e-13,
+        "identity_percentage": 41.55844155844156
+    },
+    {
+        "id": "ref|XP_066531155.1|",
+        "length": 148,
+        "evalue": 9.0663e-18,
+        "identity_percentage": 48.75
+    },
+    {
+        "id": "gb|KAG7459452.1|",
+        "length": 148,
+        "evalue": 9.57202e-18,
+        "identity_percentage": 48.75
+    },
+    {
+        "id": "ref|XP_040211538.1|",
+        "length": 142,
+        "evalue": 9.70759e-18,
+        "identity_percentage": 51.94805194805194
+    },
+    {
+        "id": "ref|XP_015804042.1|",
+        "length": 147,
+        "evalue": 1.041e-17,
+        "identity_percentage": 49.36708860759494
+    },
+    {
+        "id": "gb|KAK1877412.1|",
+        "length": 163,
+        "evalue": 1.048e-17,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_057268687.1|",
+        "length": 157,
+        "evalue": 1.24398e-17,
+        "identity_percentage": 68.62745098039215
+    },
+    {
+        "id": "ref|XP_028310220.1|",
+        "length": 148,
+        "evalue": 1.31136e-17,
+        "identity_percentage": 46.25
+    },
+    {
+        "id": "gb|ACV69849.1|",
+        "length": 147,
+        "evalue": 1.32185e-17,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "gb|TRY96344.1|",
+        "length": 147,
+        "evalue": 1.57261e-17,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_062264024.1|",
+        "length": 147,
+        "evalue": 1.6424e-17,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "emb|CAB1313098.1|",
+        "length": 189,
+        "evalue": 1.69193e-17,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_039541953.1|",
+        "length": 148,
+        "evalue": 1.70159e-17,
+        "identity_percentage": 45.0
+    },
+    {
+        "id": "ref|WP_219198213.1|",
+        "length": 148,
+        "evalue": 1.70159e-17,
+        "identity_percentage": 45.56962025316456
+    },
+    {
+        "id": "ref|XP_030019064.1|",
+        "length": 147,
+        "evalue": 1.89133e-17,
+        "identity_percentage": 47.368421052631575
+    },
+    {
+        "id": "ref|XP_028454638.1|",
+        "length": 147,
+        "evalue": 2.1312e-17,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_066529941.1|",
+        "length": 148,
+        "evalue": 2.28095e-17,
+        "identity_percentage": 48.75
+    },
+    {
+        "id": "ref|XP_030262505.1|",
+        "length": 147,
+        "evalue": 2.3499e-17,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_026785529.1|",
+        "length": 147,
+        "evalue": 2.50803e-17,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "gb|TMS15421.1|",
+        "length": 279,
+        "evalue": 2.51186e-17,
+        "identity_percentage": 52.63157894736842
+    },
+    {
+        "id": "ref|XP_014382413.1|",
+        "length": 150,
+        "evalue": 2.5839e-17,
+        "identity_percentage": 51.21951219512195
+    },
+    {
+        "id": "ref|XP_023135351.2|",
+        "length": 147,
+        "evalue": 2.70601e-17,
+        "identity_percentage": 45.56962025316456
+    },
+    {
+        "id": "ref|XP_041943684.1|",
+        "length": 148,
+        "evalue": 3.19312e-17,
+        "identity_percentage": 45.0
+    },
+    {
+        "id": "ref|XP_060725278.1|",
+        "length": 147,
+        "evalue": 3.39871e-17,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_020466131.1|",
+        "length": 147,
+        "evalue": 3.5495e-17,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_027137766.1|",
+        "length": 146,
+        "evalue": 3.90295e-17,
+        "identity_percentage": 52.63157894736842
+    },
+    {
+        "id": "ref|XP_038143774.1|",
+        "length": 147,
+        "evalue": 4.31521e-17,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_060798132.1|",
+        "length": 147,
+        "evalue": 4.86231e-17,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_058233120.1|",
+        "length": 147,
+        "evalue": 5.7842e-17,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "gb|ATU75089.1|",
+        "length": 104,
+        "evalue": 6.383e-17,
+        "identity_percentage": 66.66666666666666
+    },
+    {
+        "id": "ref|XP_026180546.1|",
+        "length": 147,
+        "evalue": 6.73309e-17,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_034075821.1|",
+        "length": 163,
+        "evalue": 6.88686e-17,
+        "identity_percentage": 45.56962025316456
+    },
+    {
+        "id": "ref|XP_036944723.1|",
+        "length": 147,
+        "evalue": 7.10845e-17,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_028285871.1|",
+        "length": 147,
+        "evalue": 7.42374e-17,
+        "identity_percentage": 45.56962025316456
+    },
+    {
+        "id": "ref|XP_028669972.1|",
+        "length": 147,
+        "evalue": 8.36474e-17,
+        "identity_percentage": 50.0
+    },
+    {
+        "id": "ref|XP_039348636.1|",
+        "length": 142,
+        "evalue": 8.61769e-17,
+        "identity_percentage": 46.75324675324675
+    },
+    {
+        "id": "ref|XP_062846367.1|",
+        "length": 147,
+        "evalue": 8.64147e-17,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "gb|ABV21537.1|",
+        "length": 147,
+        "evalue": 1.01686e-16,
+        "identity_percentage": 46.835443037974684
+    },
+    {
+        "id": "ref|XP_033840396.1|",
+        "length": 147,
+        "evalue": 1.02795e-16,
+        "identity_percentage": 48.10126582278481
+    },
+    {
+        "id": "ref|XP_041813555.1|",
+        "length": 147,
+        "evalue": 1.18363e-16,
+        "identity_percentage": 48.68421052631579
+    },
+    {
+        "id": "ref|XP_016082480.2|",
+        "length": 142,
+        "evalue": 1.61766e-16,
+        "identity_percentage": 50.649350649350644
+    },
+    {
+        "id": "ref|XP_010076402.1|",
+        "length": 138,
+        "evalue": 1.63423e-16,
+        "identity_percentage": 44.15584415584416
+    },
+    {
+        "id": "ref|XP_058626030.1|",
+        "length": 148,
+        "evalue": 1.66072e-16,
+        "identity_percentage": 45.0
+    },
+    {
+        "id": "ref|XP_053298484.1|",
+        "length": 148,
+        "evalue": 1.79169e-16,
+        "identity_percentage": 46.25
+    },
+    {
+        "id": "gb|MEY6407885.1|",
+        "length": 131,
+        "evalue": 1.84067e-16,
+        "identity_percentage": 47.5
+    },
+    {
+        "id": "ref|XP_045078651.1|",
+        "length": 147,
+        "evalue": 2.55654e-16,
+        "identity_percentage": 44.303797468354425
+    },
+    {
+        "id": "gb|NXC93033.1|",
+        "length": 142,
+        "evalue": 2.69443e-16,
+        "identity_percentage": 42.857142857142854
+    },
+    {
+        "id": "emb|CCE45502.1|",
+        "length": 142,
+        "evalue": 3.24043e-16,
+        "identity_percentage": 50.649350649350644
+    },
+    {
+        "id": "ref|XP_048847861.1|",
+        "length": 148,
+        "evalue": 4.1288e-16,
+        "identity_percentage": 47.5
+    },
+    {
+        "id": "gb|ADA57430.1|",
+        "length": 137,
+        "evalue": 4.19273e-16,
+        "identity_percentage": 44.303797468354425
+    },
+    {
+        "id": "gb|KFP48978.1|",
+        "length": 142,
+        "evalue": 4.34375e-16,
+        "identity_percentage": 42.857142857142854
+    },
+    {
+        "id": "sp|P11753.1|",
+        "length": 141,
+        "evalue": 4.37973e-16,
+        "identity_percentage": 48.05194805194805
+    },
+    {
+        "id": "gb|NXX24809.1|",
+        "length": 142,
+        "evalue": 4.68659e-16,
+        "identity_percentage": 42.857142857142854
+    },
+    {
+        "id": "gb|AAY79276.1|",
+        "length": 146,
+        "evalue": 5.05053e-16,
+        "identity_percentage": 45.0
+    },
+    {
+        "id": "ref|XP_027897390.1|",
+        "length": 148,
+        "evalue": 5.29781e-16,
+        "identity_percentage": 45.0
+    },
+    {
+        "id": "ref|XP_020755840.1|",
+        "length": 142,
+        "evalue": 5.39665e-16,
+        "identity_percentage": 49.35064935064935
+    },
+    {
+        "id": "gb|OBS57184.1|",
+        "length": 349,
+        "evalue": 7.81803e-16,
+        "identity_percentage": 70.58823529411765
+    },
+    {
+        "id": "gb|KAJ7426782.1|",
+        "length": 142,
+        "evalue": 8.06272e-16,
+        "identity_percentage": 42.857142857142854
+    },
+    {
+        "id": "gb|NXO53474.1|",
+        "length": 142,
+        "evalue": 8.60505e-16,
+        "identity_percentage": 42.857142857142854
+    },
+    {
+        "id": "ref|XP_057630631.1|",
+        "length": 142,
+        "evalue": 1.00165e-15,
+        "identity_percentage": 49.35064935064935
+    },
+    {
+        "id": "gb|NXN78833.1|",
+        "length": 142,
+        "evalue": 1.02362e-15,
+        "identity_percentage": 42.857142857142854
+    },
+    {
+        "id": "ref|NP_001257815.1|",
+        "length": 142,
+        "evalue": 1.06902e-15,
+        "identity_percentage": 51.94805194805194
+    },
+    {
+        "id": "ref|XP_008414180.1|",
+        "length": 148,
+        "evalue": 1.11904e-15,
+        "identity_percentage": 45.0
+    },
+    {
+        "id": "gb|AAK50780.1|",
+        "length": 46,
+        "evalue": 1.13336e-15,
+        "identity_percentage": 73.91304347826086
+    },
+    {
+        "id": "ref|XP_004750989.2|",
+        "length": 142,
+        "evalue": 1.20451e-15,
+        "identity_percentage": 50.649350649350644
+    },
+    {
+        "id": "gb|NXI44997.1|",
+        "length": 142,
+        "evalue": 1.27165e-15,
+        "identity_percentage": 41.55844155844156
+    },
+    {
+        "id": "gb|NXP60136.1|",
+        "length": 142,
+        "evalue": 1.49635e-15,
+        "identity_percentage": 42.857142857142854
+    },
+    {
+        "id": "ref|XP_005522909.1|",
+        "length": 142,
+        "evalue": 1.5627e-15,
+        "identity_percentage": 42.857142857142854
+    },
+    {
+        "id": "gb|WCR76152.1|",
+        "length": 142,
+        "evalue": 1.68597e-15,
+        "identity_percentage": 49.35064935064935
+    },
+    {
+        "id": "gb|ABO27190.1|",
+        "length": 142,
+        "evalue": 1.74173e-15,
+        "identity_percentage": 50.649350649350644
+    },
+    {
+        "id": "ref|XP_005349096.1|",
+        "length": 142,
+        "evalue": 1.81896e-15,
+        "identity_percentage": 49.35064935064935
+    },
+    {
+        "id": "gb|KAG7255099.1|",
+        "length": 262,
+        "evalue": 1.83705e-15,
+        "identity_percentage": 43.67816091954023
+    },
+    {
+        "id": "gb|KAG7255099.1|",
+        "length": 262,
+        "evalue": 5.18024e-09,
+        "identity_percentage": 40.845070422535215
+    },
+    {
+        "id": "gb|AID57481.1|",
+        "length": 142,
+        "evalue": 2.14031e-15,
+        "identity_percentage": 49.35064935064935
+    },
+    {
+        "id": "ref|XP_053814025.1|",
+        "length": 142,
+        "evalue": 2.2111e-15,
+        "identity_percentage": 41.55844155844156
+    }
+]
