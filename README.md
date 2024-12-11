@@ -638,6 +638,37 @@ Por otra parte, para la base de datos swissprot, se obtiene el siguiente resulta
 </Hit>
 ```
 
-Obviamente el valor de los parámetors cambia. Los E-values, los scores, y el resto de valores no tiene por qué coincidir. Sin embargo, se obtiene el mismo alineamiento como el mejor. Esto se tiene, claro está, debido a que la proteina para la cual nuestra secuencia codifica se tiene almacenada en la base de datos. Al haberle pasado la proteína entera a la BBDD, era practicamente seguro que algo así ocurriese.
+Obviamente el valor de los parámetors cambia. Los E-values, los scores, y el resto de valores no tiene por qué coincidir. Sin embargo, se obtiene el mismo alineamiento como el mejor. Esto se tiene, claro está, debido a que la proteina para la cual nuestra secuencia codifica se tiene almacenada en la base de datos. Al haberle pasado la proteína entera a la BBDD, era practicamente seguro que algo así ocurriese. No obstante, si probamos con un fragmento únicamente de esta proteína (aproximadamente el 40% de la misma), obtenemos la proteína buscada.
+
+```xml
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>pdb|5SW7|B</Hit_id>
+  <Hit_def>Chain B, Hemoglobin subunit beta [Homo sapiens]</Hit_def>
+  <Hit_accession>5SW7_B</Hit_accession>
+  <Hit_len>146</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>163.696</Hsp_bit-score>
+      <Hsp_score>413</Hsp_score>
+      <Hsp_evalue>1.85431e-49</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>242</Hsp_query-to>
+      <Hsp_hit-from>54</Hsp_hit-from>
+      <Hsp_hit-to>133</Hsp_hit-to>
+      <Hsp_query-frame>3</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>79</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>80</Hsp_align-len>
+      <Hsp_qseq>VMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKV</Hsp_qseq>
+      <Hsp_hseq>VMGNPKVKAHGKKVLGAFSDGLAHLDNLDGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKV</Hsp_hseq>
+      <Hsp_midline>VMGNPKVKAHGKKVLGAFSDGLAHLDNL GTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKV</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+```
 
 </div>
